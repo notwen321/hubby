@@ -1,0 +1,1497 @@
+2025-05-20 19:35:56,921 - NeoByte - INFO - NeoByte Downloader started
+2025-05-20 19:35:56,950 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 19:35:56,969 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 19:36:28,335 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 20:15:09,662 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 20:15:09,677 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 20:15:09,691 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 20:15:28,162 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:28] "GET / HTTP/1.1" 200 -
+2025-05-20 20:15:30,113 - neobyte - INFO - YouTube download page accessed
+2025-05-20 20:15:30,154 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:30] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 20:15:30,496 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:30] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 20:15:33,250 - neobyte - INFO - Instagram download page accessed
+2025-05-20 20:15:33,260 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:33] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 20:15:38,452 - neobyte - INFO - Twitter download page accessed
+2025-05-20 20:15:38,461 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:38] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 20:15:43,084 - neobyte - INFO - YouTube download page accessed
+2025-05-20 20:15:43,086 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:43] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 20:15:43,459 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:43] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 20:15:45,313 - neobyte - INFO - YouTube download page accessed
+2025-05-20 20:15:45,314 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:45] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 20:15:45,662 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:45] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 20:15:46,862 - neobyte - INFO - Instagram download page accessed
+2025-05-20 20:15:46,863 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:46] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 20:15:48,127 - neobyte - INFO - Twitter download page accessed
+2025-05-20 20:15:48,128 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:48] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 20:15:49,396 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:15:49] "GET / HTTP/1.1" 200 -
+2025-05-20 20:45:38,333 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:45:38] "GET / HTTP/1.1" 200 -
+2025-05-20 20:47:56,028 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:47:56] "GET / HTTP/1.1" 200 -
+2025-05-20 20:48:12,523 - neobyte - INFO - YouTube download page accessed
+2025-05-20 20:48:12,524 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:48:12] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 20:48:12,883 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:48:12] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 20:48:40,268 - neobyte - INFO - Instagram download page accessed
+2025-05-20 20:48:40,269 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:48:40] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 20:48:45,603 - neobyte - INFO - YouTube download page accessed
+2025-05-20 20:48:45,612 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:48:45] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 20:48:45,864 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:48:45] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 20:48:48,699 - neobyte - INFO - Twitter download page accessed
+2025-05-20 20:48:48,705 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:48:48] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 20:48:55,756 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:48:55] "GET / HTTP/1.1" 200 -
+2025-05-20 20:49:09,977 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 20:49:10,730 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 20:49:10,792 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 20:49:10,823 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 20:50:34,185 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:50:34] "GET / HTTP/1.1" 200 -
+2025-05-20 20:51:10,289 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:10] "GET / HTTP/1.1" 200 -
+2025-05-20 20:51:12,575 - neobyte - INFO - X download page accessed
+2025-05-20 20:51:12,585 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:12] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 20:51:30,538 - neobyte - INFO - Instagram download page accessed
+2025-05-20 20:51:30,557 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:30] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 20:51:36,964 - neobyte - INFO - YouTube download page accessed
+2025-05-20 20:51:36,979 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:36] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 20:51:37,225 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:37] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 20:51:48,025 - neobyte - INFO - Instagram download page accessed
+2025-05-20 20:51:48,026 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:48] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 20:51:51,815 - neobyte - INFO - X download page accessed
+2025-05-20 20:51:51,817 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:51] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 20:51:53,125 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:53] "GET / HTTP/1.1" 200 -
+2025-05-20 20:51:55,203 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 20:51:55] "GET / HTTP/1.1" 200 -
+2025-05-20 21:06:27,148 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:06:27] "GET / HTTP/1.1" 200 -
+2025-05-20 21:07:48,014 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:07:48,015 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:07:48] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:07:48,258 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:07:48] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:09:59,745 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:09:59] "GET / HTTP/1.1" 200 -
+2025-05-20 21:12:38,610 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:12:38] "GET / HTTP/1.1" 200 -
+2025-05-20 21:13:49,850 - neobyte - INFO - X download page accessed
+2025-05-20 21:13:49,861 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:13:49] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 21:14:07,198 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:14:07,199 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:14:07] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:14:07,529 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:14:07] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:14:14,776 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:14:14] "GET / HTTP/1.1" 200 -
+2025-05-20 21:14:23,708 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:14:23] "GET / HTTP/1.1" 200 -
+2025-05-20 21:14:57,906 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:14:57] "GET / HTTP/1.1" 200 -
+2025-05-20 21:15:06,393 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:15:06,412 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:15:06] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:15:06,760 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:15:06] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:15:31,457 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:15:31] "GET / HTTP/1.1" 200 -
+2025-05-20 21:15:56,267 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:15:56] "GET / HTTP/1.1" 200 -
+2025-05-20 21:15:57,811 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:15:57,820 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:15:57] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:15:58,185 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:15:58] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:15:58,905 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:15:58,907 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:15:58] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:15:59,256 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:15:59] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:17:11,716 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:17:11,728 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:17:11] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:17:11,981 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:17:11] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:17:16,227 - neobyte - INFO - Instagram download page accessed
+2025-05-20 21:17:16,244 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:17:16] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 21:17:19,831 - neobyte - INFO - X download page accessed
+2025-05-20 21:17:19,840 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:17:19] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 21:17:22,278 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:17:22,280 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:17:22] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:17:22,677 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:17:22] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:19:37,625 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:19:37,631 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:19:37] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:19:37,892 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:19:37] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:19:39,381 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:19:39,385 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:19:39] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:19:39,746 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:19:39] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:20:23,428 - neobyte - INFO - Download requested: https://youtu.be/HnlXl_hGPiE?si=qwG8qci7ajgob99I... Type: video, Resolution: highest
+2025-05-20 21:20:23,434 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:20:23] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:20:23,796 - neobyte - ERROR - Download error for https://youtu.be/HnlXl_hGPiE?si=qwG8qci7ajgob99I: HTTP Error 400: Bad Request
+2025-05-20 21:20:24,748 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:20:24] "GET /status/1e3e8139-dfa0-4fae-95b3-48ac2bbaf440 HTTP/1.1" 200 -
+2025-05-20 21:21:33,599 - neobyte - INFO - Instagram download page accessed
+2025-05-20 21:21:33,600 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:21:33] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 21:21:46,236 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:21:46] "GET / HTTP/1.1" 200 -
+2025-05-20 21:21:50,437 - neobyte - INFO - X download page accessed
+2025-05-20 21:21:50,444 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:21:50] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 21:23:35,202 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:23:35,215 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:23:35] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:23:35,464 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:23:35] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:23:38,403 - neobyte - INFO - Instagram download page accessed
+2025-05-20 21:23:38,404 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:23:38] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 21:23:45,152 - neobyte - INFO - X download page accessed
+2025-05-20 21:23:45,153 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:23:45] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 21:23:51,032 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:23:51] "GET / HTTP/1.1" 200 -
+2025-05-20 21:24:06,229 - neobyte - INFO - X download page accessed
+2025-05-20 21:24:06,230 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:24:06] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 21:25:59,876 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:25:59] "GET / HTTP/1.1" 200 -
+2025-05-20 21:26:06,031 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:06] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:26:15,976 - neobyte - INFO - Instagram download page accessed
+2025-05-20 21:26:15,977 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:15] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 21:26:16,225 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:16] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:26:22,175 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:22] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:26:22,504 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:22] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:26:33,049 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:26:33,050 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:33] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:26:33,408 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:33] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:26:33,557 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:33] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:26:37,344 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:26:38,236 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:26:38,271 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:26:38,309 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:26:48,155 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:26:48,173 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:48] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:26:48,495 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:48] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:26:48,538 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:48] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:26:53,461 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:53] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-05-20 21:26:55,737 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:55] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:26:56,050 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:56] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:26:58,613 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:26:58,613 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:58] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:26:59,024 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:59] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:26:59,288 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:26:59] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:27:03,251 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:27:03,952 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:27:03,975 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:27:03,996 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:27:42,371 - neobyte - INFO - Download requested: https://youtu.be/4DkNCgUXbig?si=uuVYYToRivwiZo2G... Type: video, Resolution: highest
+2025-05-20 21:27:42,375 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:27:42] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:27:42,725 - neobyte - ERROR - Download error for https://youtu.be/4DkNCgUXbig?si=uuVYYToRivwiZo2G: HTTP Error 400: Bad Request
+2025-05-20 21:27:43,383 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:27:43] "GET /status/daf72469-c868-4cad-88ae-621cf0bb44d2 HTTP/1.1" 200 -
+2025-05-20 21:28:50,286 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:28:50,998 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:28:51,020 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:28:51,040 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:29:21,817 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:29:21,826 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:21] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:29:22,445 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:22] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:29:27,155 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:27] "GET / HTTP/1.1" 200 -
+2025-05-20 21:29:31,914 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:31] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:29:36,802 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:36] "GET / HTTP/1.1" 200 -
+2025-05-20 21:29:37,128 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:37] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:29:42,271 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:42] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-05-20 21:29:45,184 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:45] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:29:45,448 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:45] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:29:46,903 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:46] "GET / HTTP/1.1" 200 -
+2025-05-20 21:29:47,423 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:47] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:29:51,846 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:29:51,847 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:51] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:29:52,213 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:52] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:29:52,319 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:52] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:29:53,800 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:53] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:29:54,144 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:54] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:29:56,472 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:29:56,474 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:56] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:29:56,823 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:56] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:29:56,930 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:29:56] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 21:30:59,934 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:30:59,935 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:30:59] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:31:00,194 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:31:00] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:31:12,942 - neobyte - INFO - Download requested: https://youtu.be/4DkNCgUXbig?si=MGZxzue3wh3mvsdR... Type: video, Resolution: highest
+2025-05-20 21:31:12,947 - neobyte - ERROR - Error downloading https://youtu.be/4DkNCgUXbig?si=MGZxzue3wh3mvsdR: cannot import name 'VideosSearch' from 'pytube.contrib.search' (C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pytube\contrib\search.py)
+2025-05-20 21:31:12,948 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:31:12] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:31:14,265 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:31:14] "GET /status/fb120d1d-9f16-411e-9b13-a2a187e77d6b HTTP/1.1" 200 -
+2025-05-20 21:32:10,913 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:32:11,658 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:32:11,677 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:32:11,696 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:32:31,714 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:32:32,247 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:32:32,263 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:32:32,281 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:32:55,967 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:32:55,982 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:32:55] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:32:56,216 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:32:56] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:32:59,897 - neobyte - INFO - Download requested: https://youtu.be/HnlXl_hGPiE?si=nULEamLysFN51Ukn... Type: video, Resolution: highest
+2025-05-20 21:32:59,919 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:32:59] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:33:01,250 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:33:01] "GET /status/0fac0601-6bca-46d5-af26-d331ad9d4409 HTTP/1.1" 200 -
+2025-05-20 21:33:01,527 - neobyte - ERROR - Error downloading https://youtu.be/HnlXl_hGPiE?si=nULEamLysFN51Ukn: Exception while accessing title of https://youtube.com/watch?v=HnlXl_hGPiE. Please file a bug report at https://github.com/pytube/pytube
+2025-05-20 21:33:01,938 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:33:01] "GET /status/0fac0601-6bca-46d5-af26-d331ad9d4409 HTTP/1.1" 200 -
+2025-05-20 21:34:25,412 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:34:26,053 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:34:26,068 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:34:26,079 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:37:15,337 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:37:16,417 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:37:16,441 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:37:16,459 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:37:28,068 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:37:28,618 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:37:28,637 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:37:28,651 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:38:54,589 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\ffmpeg\\__init__.py', reloading
+2025-05-20 21:38:55,312 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:38:55,336 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:38:55,355 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:40:59,323 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:40:59] "GET / HTTP/1.1" 200 -
+2025-05-20 21:41:59,425 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:42:00,079 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:42:00,098 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:42:00,108 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:42:19,026 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:19] "GET / HTTP/1.1" 200 -
+2025-05-20 21:42:20,348 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:42:20,359 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:20] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:42:20,715 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:20] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:42:27,610 - neobyte - INFO - Download requested: https://youtu.be/zqfQasDktfk?si=GbrBisJhHiIj6E1S... Type: video, Resolution: highest
+2025-05-20 21:42:27,626 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:27] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:42:29,025 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:29] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:29,641 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:29] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:30,980 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:30] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:31,649 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:31] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:33,090 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:33] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:33,664 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:33] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:35,021 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:35] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:35,661 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:35] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:36,958 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:36] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:37,643 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:37] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:39,059 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:39] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:39,648 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:39] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:40,969 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:40] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:41,637 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:41] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:42,953 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:42] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:43,638 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:43] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:44,968 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:44] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:45,641 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:45] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:46,950 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:46] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:47,649 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:47] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:48,951 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:48] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:49,638 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:49] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:50,950 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:50] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:51,639 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:51] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:52,960 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:52] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:53,642 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:53] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:54,957 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:54] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:55,640 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:55] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:56,952 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:56] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:57,640 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:57] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:58,948 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:58] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:42:59,651 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:42:59] "GET /status/e5f9bd65-3df2-4c3f-a1e9-289bcf90b2ca HTTP/1.1" 200 -
+2025-05-20 21:43:00,890 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:43:00,892 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:43:00] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:43:00,953 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:43:00] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:43:48,135 - neobyte - INFO - Download completed for https://youtu.be/zqfQasDktfk?si=GbrBisJhHiIj6E1S: SHYAMA AAN BASO VRINDAVAN ME \uff5c \u0936\u094d\u092f\u093e\u092e\u093e \u0906\u0928 \u092c\u0938\u094b\u0902 \u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928 \u092e\u0947\u0902 \uff5c #janmashtamispecial #krishnajayanthi.mp4
+2025-05-20 21:46:21,642 - neobyte - INFO - Download requested: https://youtu.be/zqfQasDktfk?si=GbrBisJhHiIj6E1S... Type: video, Resolution: highest
+2025-05-20 21:46:21,738 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:21] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:46:22,757 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:22] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:24,072 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:24] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:24,753 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:24] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:26,064 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:26] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:26,774 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:26] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:28,125 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:28] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:28,757 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:28] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:30,099 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:30] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:30,753 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:30] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:32,103 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:32] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:32,762 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:32] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:34,069 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:34] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:34,764 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:34] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:36,106 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:36] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:36,775 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:36] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:38,140 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:38] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:38,778 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:38] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:40,097 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:40] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:40,765 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:40] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:41,351 - neobyte - INFO - Download completed for https://youtu.be/zqfQasDktfk?si=GbrBisJhHiIj6E1S: SHYAMA AAN BASO VRINDAVAN ME \uff5c \u0936\u094d\u092f\u093e\u092e\u093e \u0906\u0928 \u092c\u0938\u094b\u0902 \u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928 \u092e\u0947\u0902 \uff5c #janmashtamispecial #krishnajayanthi.mp4
+2025-05-20 21:46:42,065 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:42] "GET /status/397a4c78-3a22-42ec-8133-b19a24aaa04e HTTP/1.1" 200 -
+2025-05-20 21:46:42,333 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:42] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:46:45,044 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:46:45] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:46:46,446 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:46:47,831 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:46:47,870 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:46:47,894 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:47:01,081 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:47:01,101 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:01] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:47:01,344 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:01] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:47:05,338 - neobyte - INFO - Download requested: https://youtu.be/zqfQasDktfk?si=GbrBisJhHiIj6E1S... Type: video, Resolution: highest
+2025-05-20 21:47:05,344 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:05] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:47:06,677 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:06] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:07,379 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:07] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:08,746 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:08] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:09,361 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:09] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:10,668 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:10] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:11,356 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:11] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:12,745 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:12] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:13,367 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:13] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:14,708 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:14] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:15,374 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:15] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:16,747 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:16] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:17,356 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:17] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:18,663 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:18] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:19,354 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:19] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:20,727 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:20] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:21,371 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:21] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:22,709 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:22] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:23,375 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:23] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:24,773 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:24] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:25,365 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:25] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:26,663 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:26] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:26,762 - neobyte - INFO - Download completed for https://youtu.be/zqfQasDktfk?si=GbrBisJhHiIj6E1S: SHYAMA AAN BASO VRINDAVAN ME \uff5c \u0936\u094d\u092f\u093e\u092e\u093e \u0906\u0928 \u092c\u0938\u094b\u0902 \u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928 \u092e\u0947\u0902 \uff5c #janmashtamispecial #krishnajayanthi.mp4
+2025-05-20 21:47:27,360 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:27] "GET /status/cfe37d4e-4363-47d7-9a47-74fc3b9a6f20 HTTP/1.1" 200 -
+2025-05-20 21:47:27,689 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:27] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:47:27,718 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN ME \uff5c \u0936\u094d\u092f\u093e\u092e\u093e \u0906\u0928 \u092c\u0938\u094b\u0902 \u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928 \u092e\u0947\u0902 \uff5c 
+2025-05-20 21:47:27,719 - neobyte - ERROR - Download file not found: downloads\SHYAMA AAN BASO VRINDAVAN ME \uff5c \u0936\u094d\u092f\u093e\u092e\u093e \u0906\u0928 \u092c\u0938\u094b\u0902 \u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928 \u092e\u0947\u0902 \uff5c 
+2025-05-20 21:47:27,721 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:47:27] "[33mGET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20ME%20\uff5c%20\u0936\u094d\u092f\u093e\u092e\u093e%20\u0906\u0928%20\u092c\u0938\u094b\u0902%20\u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928%20\u092e\u0947\u0902%20\uff5c%20 HTTP/1.1[0m" 404 -
+2025-05-20 21:48:54,820 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:48:54,823 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:48:54] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:48:55,084 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:48:55] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:49:29,513 - neobyte - INFO - Download requested: https://youtu.be/_9N_C4Yc-vE?si=p-e_eL6X_bawohRG... Type: video, Resolution: highest
+2025-05-20 21:49:29,517 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:29] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:49:31,013 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:31] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:31,747 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:31] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:33,101 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:33] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:33,559 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:33] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:34,911 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:34] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:35,533 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:35] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:36,997 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:36] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:37,538 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:37] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:38,900 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:38] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:39,534 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:39] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:40,850 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:40] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:41,533 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:41] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:42,913 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:42] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:43,551 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:43] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:44,889 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:44] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:45,761 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:45] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:47,113 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:47] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:47,753 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:47] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:49,053 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:49] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:49,668 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:49] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:50,750 - neobyte - INFO - Download completed for https://youtu.be/_9N_C4Yc-vE?si=p-e_eL6X_bawohRG: RADHA RANI LAGE \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2023 \uff5c BHAKTI SONG.mp4
+2025-05-20 21:49:50,860 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:50] "GET /status/696c3b8d-6f3e-4d33-adc2-0fa71d68346e HTTP/1.1" 200 -
+2025-05-20 21:49:51,120 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:51] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:49:51,200 - neobyte - INFO - File download requested: RADHA RANI LAGE \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2023 \uff5c BHAKTI SONG.mp4
+2025-05-20 21:49:51,201 - neobyte - INFO - Sending file RADHA RANI LAGE \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2023 \uff5c BHAKTI SONG.mp4 to user with MIME type video/mp4
+2025-05-20 21:49:51,240 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:49:51] "GET /downloads/RADHA%20RANI%20LAGE%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202023%20\uff5c%20BHAKTI%20SONG.mp4 HTTP/1.1" 200 -
+2025-05-20 21:50:16,029 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:50:16] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:50:36,204 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:50:37,574 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:50:37,617 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:50:37,642 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:53:42,037 - neobyte - INFO - Instagram download page accessed
+2025-05-20 21:53:42,051 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:53:42] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 21:53:51,097 - neobyte - INFO - X download page accessed
+2025-05-20 21:53:51,111 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:53:51] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 21:53:55,223 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:53:55,247 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:53:55] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:53:55,483 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:53:55] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 21:53:56,614 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:53:56] "GET / HTTP/1.1" 200 -
+2025-05-20 21:54:26,187 - neobyte - INFO - YouTube download page accessed
+2025-05-20 21:54:26,201 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:54:26] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 21:54:54,070 - neobyte - INFO - Download requested: https://youtu.be/4DkNCgUXbig?si=0j7hnsp4Sd9gNJRo... Type: video, Resolution: highest
+2025-05-20 21:54:54,073 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:54:54] "POST /download HTTP/1.1" 200 -
+2025-05-20 21:54:55,400 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:54:55] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:54:56,086 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:54:56] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:54:57,412 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:54:57] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:54:58,089 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:54:58] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:54:59,407 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:54:59] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:00,093 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:00] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:01,465 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:01] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:02,089 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:02] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:03,440 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:03] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:04,093 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:04] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:05,470 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:05] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:06,109 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:06] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:07,483 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:07] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:08,088 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:08] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:09,416 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:09] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:10,090 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:10] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:11,420 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:11] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:12,101 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:12] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:13,456 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:13] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:14,093 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:14] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:15,415 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:15] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:15,870 - neobyte - INFO - Download completed for https://youtu.be/4DkNCgUXbig?si=0j7hnsp4Sd9gNJRo: Parvati Boli Shankar Se - O Bholenath Ji \uff5c Hansraj Raghuwanshi \uff5c Full Song \uff5c Bhole Baba Song.mp4
+2025-05-20 21:55:16,084 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:16] "GET /status/eafc27f3-cdd2-460d-bf69-94692456ac92 HTTP/1.1" 200 -
+2025-05-20 21:55:16,418 - neobyte - INFO - File download requested: Parvati Boli Shankar Se - O Bholenath Ji \uff5c Hansraj Raghuwanshi \uff5c Full Song \uff5c Bhole Baba Song.mp4
+2025-05-20 21:55:16,444 - neobyte - INFO - Sending file Parvati Boli Shankar Se - O Bholenath Ji \uff5c Hansraj Raghuwanshi \uff5c Full Song \uff5c Bhole Baba Song.mp4 (16648162 bytes) with MIME type video/mp4
+2025-05-20 21:55:16,466 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 21:55:16] "GET /downloads/Parvati%20Boli%20Shankar%20Se%20-%20O%20Bholenath%20Ji%20\uff5c%20Hansraj%20Raghuwanshi%20\uff5c%20Full%20Song%20\uff5c%20Bhole%20Baba%20Song.mp4 HTTP/1.1" 200 -
+2025-05-20 21:55:16,491 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode character '\uff5c' in position 84: ordinal not in range(256)
+2025-05-20 21:55:54,061 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:59:34,896 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:59:35,065 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 21:59:35,066 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 21:59:35,069 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 21:59:35,921 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 21:59:35,950 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 21:59:35,965 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 21:59:57,496 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 21:59:57,585 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:00:53,212 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:00:53,270 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 22:00:53,270 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 22:00:53,276 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:00:54,227 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:00:54,264 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:00:54,283 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:02:08,515 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:02:08,619 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:02:09,586 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:02:09,620 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:02:09,647 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:02:16,021 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:02:16,092 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 22:02:16,093 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 22:02:16,097 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:02:17,189 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:02:17,226 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:02:17,250 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:02:42,769 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:02:42,789 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:02:42] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:02:43,099 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:02:43] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:03:33,270 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:03:33,271 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:33] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:03:33,532 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:33] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:03:50,929 - neobyte - INFO - Download requested: https://youtu.be/f18cpg-mTrY?si=dcj5dk-4afpmG16x... Type: video, Resolution: highest
+2025-05-20 22:03:50,932 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:50] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:03:52,262 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:52] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:03:52,962 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:52] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:03:54,257 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:54] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:03:54,949 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:54] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:03:56,259 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:56] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:03:56,957 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:56] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:03:58,332 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:58] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:03:58,958 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:03:58] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:00,374 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:00] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:01,755 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:01] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:03,070 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:03] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:03,755 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:03] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:04,403 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:04] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:04,963 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:04] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:06,334 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:06] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:06,963 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:06] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:08,335 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:08] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:08,970 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:08] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:10,333 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:10] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:10,948 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:10] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:12,257 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:12] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:12,946 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:12] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:14,267 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:14] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:14,959 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:14] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:16,258 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:16] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:16,953 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:16] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:18,273 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:18] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:18,949 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:18] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:21,058 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:21] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:04:21,753 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:04:21] "GET /status/9ff30926-8e9f-4c00-b252-5def120651c8 HTTP/1.1" 200 -
+2025-05-20 22:07:58,072 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:07:58,159 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 22:07:58,159 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 22:07:58,168 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:07:59,344 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:07:59,417 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:07:59,450 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:08:20,589 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:08:20,717 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:08:21,815 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:08:21,888 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:08:21,928 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:08:36,911 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:08:36,973 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 22:08:36,973 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 22:08:36,976 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:08:37,937 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:08:37,970 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:08:37,990 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:09:41,571 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:09:41,589 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:09:41] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:09:41,923 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:09:41] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:09:59,488 - neobyte - INFO - Download requested: https://youtu.be/45mT6CvbjkA?si=rwpo9UOd7gDKOJTn... Type: video, Resolution: highest
+2025-05-20 22:09:59,491 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:09:59] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:10:00,511 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:00] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:01,895 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:01] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:02,536 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:02] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:03,824 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:03] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:04,508 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:04] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:05,818 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:05] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:06,520 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:06] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:07,889 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:07] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:08,523 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:08] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:09,883 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:09] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:10,536 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:10] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:11,977 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:11] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:12,507 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:12] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:13,829 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:13] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:14,512 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:14] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:15,892 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:15] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:16,514 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:16] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:17,887 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:17] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:18,521 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:18] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:19,873 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:19] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:20,526 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:20] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:21,899 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:21] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:22,521 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:22] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:23,824 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:23] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:24,513 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:24] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:25,813 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:25] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:26,503 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:26] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:27,815 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:27] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:28,508 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:28] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:29,811 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:29] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:30,744 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:30] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:32,054 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:32] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:32,742 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:32] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:33,814 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:33] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:34,511 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:34] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:36,190 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:36] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:36,743 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:36] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:38,059 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:38] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:38,741 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:38] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:40,076 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:40] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:40,744 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:40] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:42,060 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:42] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:42,747 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:42] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:42,882 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:10:42,965 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 22:10:42,965 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 22:10:42,968 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:10:44,036 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:10:44,060 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:44] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:44,079 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:10:44,102 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:10:44,748 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:44] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:46,054 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:46] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:46,743 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:46] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:48,050 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:48] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:48,753 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:48] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:50,159 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:50] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:50,752 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:50] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:52,065 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:52] "GET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1" 200 -
+2025-05-20 22:10:53,061 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:10:53] "[33mGET /status/e8c78899-c8a9-4844-96bb-7a586fe2be55 HTTP/1.1[0m" 404 -
+2025-05-20 22:12:00,575 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:12:00,614 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:00] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:12:00,801 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:00] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:12:24,275 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:12:24,329 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 22:12:24,330 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 22:12:24,333 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:12:25,424 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:12:25,456 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:12:25,474 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:12:32,442 - neobyte - INFO - Download requested: https://youtu.be/45mT6CvbjkA?si=rwpo9UOd7gDKOJTn... Type: video, Resolution: highest
+2025-05-20 22:12:32,443 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:32] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:12:33,778 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:33] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:34,466 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:34] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:35,775 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:35] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:36,462 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:36] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:37,776 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:37] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:38,465 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:38] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:39,867 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:39] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:40,474 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:40] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:41,841 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:41] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:42,481 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:42] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:43,798 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:43] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:44,481 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:44] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:45,771 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:45] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:46,469 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:46] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:47,777 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:47] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:48,486 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:48] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:49,859 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:49] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:50,468 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:50] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:51,833 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:51] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:52,471 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:52] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:53,822 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:53] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:54,481 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:54] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:55,771 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:55] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:56,457 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:56] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:57,770 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:57] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:58,467 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:58] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:12:59,778 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:12:59] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:13:00,461 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:00] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:13:01,414 - neobyte - INFO - Download completed for https://youtu.be/45mT6CvbjkA?si=rwpo9UOd7gDKOJTn: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:13:01,772 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:01] "GET /status/b74ff451-ec82-4be2-aa61-e57b6ae12887 HTTP/1.1" 200 -
+2025-05-20 22:13:02,035 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:13:02,036 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:13:02,037 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:02] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:13:02,068 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:13:02,127 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:02] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:13:05,938 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:13:05,941 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:13:05,947 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:05] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:13:05,962 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:13:08,453 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:13:08,453 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:13:08,454 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:08] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:13:08,481 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:13:09,650 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:13:09,650 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:13:09,652 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:09] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:13:09,664 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:13:18,437 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:13:18,438 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:13:18,440 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:18] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:13:18,454 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:13:19,485 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:13:19] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:15:47,400 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:15:47,433 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:15:47] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:15:47,831 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:15:47] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:15:51,808 - neobyte - INFO - Download requested: https://youtu.be/45mT6CvbjkA?si=rwpo9UOd7gDKOJTn... Type: video, Resolution: highest
+2025-05-20 22:15:51,812 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:15:51] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:15:53,131 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:15:53] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:15:55,022 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:15:55] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:15:56,692 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:15:56] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:15:58,782 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:15:58] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:15:59,173 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:15:59] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:00,159 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:00] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:01,192 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:01] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:02,179 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:02] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:03,173 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:03] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:04,222 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:04] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:05,233 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:05] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:06,133 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:06] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:07,148 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:07] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:08,172 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:08] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:09,170 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:09] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:10,220 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:10] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:11,171 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:11] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:12,176 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:12] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:13,172 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:13] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:14,180 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:14] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:15,180 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:15] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:15,327 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:16:15,427 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:16:15,504 - neobyte - INFO - Download completed for https://youtu.be/45mT6CvbjkA?si=rwpo9UOd7gDKOJTn: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:16,003 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:16:16,024 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:16:16,036 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:16:16,133 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:16] "GET /status/9b3a0f79-ccf6-4daf-95fc-faf32188a8fa HTTP/1.1" 200 -
+2025-05-20 22:16:16,460 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:16] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:16:19,080 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:19,080 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:16:19,082 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:19] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:16:19,094 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:16:22,080 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:22,081 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:16:22,085 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:22] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:16:22,105 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:16:22,714 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:22,714 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:16:22,717 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:22] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:16:22,729 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:16:29,779 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:16:30,038 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:16:30,642 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:16:30,667 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:16:30,682 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:16:37,750 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:37,751 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:16:37,754 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:37] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:16:37,755 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:37,756 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:16:37,758 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:37] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:16:37,761 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:37,762 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:16:37,764 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:37] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:16:37,764 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:37,765 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:16:37,766 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:16:37,766 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:16:37,767 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:37] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:16:37,770 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:16:37] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:16:37,776 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:16:37,776 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:16:37,788 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:16:37,788 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:16:37,788 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:17:22,606 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4
+2025-05-20 22:17:22,607 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN MEIN \uff5c\uff5c SIMPAL KHAREL NEW SONG \uff5c RADHA KRISHNA BHAJAN 2024 \uff5c BHAKTISONG.mp4 (207434808 bytes) with MIME type video/mp4
+2025-05-20 22:17:22,609 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:17:22] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20MEIN%20\uff5c\uff5c%20SIMPAL%20KHAREL%20NEW%20SONG%20\uff5c%20RADHA%20KRISHNA%20BHAJAN%202024%20\uff5c%20BHAKTISONG.mp4 HTTP/1.1" 200 -
+2025-05-20 22:17:22,621 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode characters in position 74-75: ordinal not in range(256)
+2025-05-20 22:17:38,424 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:17:38,472 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:17:38,939 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:17:38,954 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:17:38,963 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:17:39,189 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:17:39,239 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:17:39,702 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:17:39,715 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:17:39,724 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:17:44,725 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:17:44,754 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 22:17:44,755 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 22:17:44,758 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:17:45,191 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:17:45,206 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:17:45,215 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:17:58,543 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:17:58,559 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:17:58] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:17:58,806 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:17:58] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:18:14,088 - neobyte - INFO - Download requested: https://youtu.be/zqfQasDktfk?si=hnVaw4bYHpAXKuUR... Type: video, Resolution: highest
+2025-05-20 22:18:14,094 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:14] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:18:15,421 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:15] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:16,123 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:16] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:17,410 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:17] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:18,100 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:18] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:19,460 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:19] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:20,116 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:20] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:21,440 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:21] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:22,122 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:22] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:23,415 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:23] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:24,100 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:24] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:25,411 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:25] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:26,112 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:26] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:27,499 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:27] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:28,105 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:28] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:29,457 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:29] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:30,096 - neobyte - INFO - Download completed for https://youtu.be/zqfQasDktfk?si=hnVaw4bYHpAXKuUR: SHYAMA AAN BASO VRINDAVAN ME \uff5c \u0936\u094d\u092f\u093e\u092e\u093e \u0906\u0928 \u092c\u0938\u094b\u0902 \u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928 \u092e\u0947\u0902 \uff5c #janmashtamispecial #krishnajayanthi.mp4
+2025-05-20 22:18:30,110 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:30] "GET /status/93b72a5c-ab1c-459e-9bdb-cd6c75fbced5 HTTP/1.1" 200 -
+2025-05-20 22:18:30,422 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:30] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:18:30,424 - neobyte - INFO - File download requested: SHYAMA AAN BASO VRINDAVAN ME \uff5c \u0936\u094d\u092f\u093e\u092e\u093e \u0906\u0928 \u092c\u0938\u094b\u0902 \u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928 \u092e\u0947\u0902 \uff5c #janmashtamispecial #krishnajayanthi.mp4
+2025-05-20 22:18:30,427 - neobyte - INFO - Sending file SHYAMA AAN BASO VRINDAVAN ME \uff5c \u0936\u094d\u092f\u093e\u092e\u093e \u0906\u0928 \u092c\u0938\u094b\u0902 \u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928 \u092e\u0947\u0902 \uff5c #janmashtamispecial #krishnajayanthi.mp4 (399564116 bytes) with MIME type video/mp4
+2025-05-20 22:18:30,428 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:18:30] "GET /downloads/SHYAMA%20AAN%20BASO%20VRINDAVAN%20ME%20\uff5c%20\u0936\u094d\u092f\u093e\u092e\u093e%20\u0906\u0928%20\u092c\u0938\u094b\u0902%20\u0935\u0943\u0928\u094d\u0926\u093e\u0935\u0928%20\u092e\u0947\u0902%20\uff5c%20%23janmashtamispecial%20%23krishnajayanthi.mp4 HTTP/1.1" 200 -
+2025-05-20 22:18:30,454 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 364, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 328, in execute
+    write(data)
+  File "C:\Users\Aditya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\werkzeug\serving.py", line 268, in write
+    self.send_header(key, value)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\server.py", line 526, in send_header
+    ("%s: %s\r\n" % (keyword, value)).encode('latin-1', 'strict'))
+UnicodeEncodeError: 'latin-1' codec can't encode character '\uff5c' in position 72: ordinal not in range(256)
+2025-05-20 22:22:41,559 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:22:41,561 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:22:41] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:22:42,027 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:22:42] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:23:14,871 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:23:14,875 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:23:14] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:23:17,755 - neobyte - INFO - X download page accessed
+2025-05-20 22:23:17,773 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:23:17] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:23:48,375 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:23:48,478 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:23:49,062 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:23:49,074 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:23:49,082 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:24:00,643 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:24:00,706 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:24:00,973 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:24:01,140 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:24:01,322 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:24:01,355 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:24:01,372 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:24:01,708 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:24:01,732 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:24:01,742 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:24:25,551 - neobyte - INFO - X download page accessed
+2025-05-20 22:24:25,560 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:25] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:24:27,842 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:24:27,866 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:27] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:24:28,205 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:28] "GET /downloads HTTP/1.1" 200 -
+2025-05-20 22:24:30,181 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:24:30,190 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:30] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:24:33,324 - neobyte - INFO - X download page accessed
+2025-05-20 22:24:33,330 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:33] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:24:35,832 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:24:35,847 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:35] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:24:38,127 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:38] "GET / HTTP/1.1" 200 -
+2025-05-20 22:24:40,721 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:24:40,721 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:40] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:24:44,436 - neobyte - INFO - X download page accessed
+2025-05-20 22:24:44,437 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:44] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:24:46,027 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:24:46] "GET / HTTP/1.1" 200 -
+2025-05-20 22:25:11,371 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:25:11] "GET / HTTP/1.1" 200 -
+2025-05-20 22:25:13,027 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:25:13,043 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:25:13] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:25:28,672 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:25:28,814 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:25:29,448 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:25:29,460 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:25:29,467 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:25:29,668 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:25:29,739 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:25:30,104 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:25:30,116 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:25:30,124 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:27:12,399 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:27:12,406 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:27:12] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:27:45,795 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:27:45,802 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:27:45] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:27:48,879 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:27:48,885 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:27:48] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:27:50,653 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:27:50,654 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:27:50] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:27:53,121 - neobyte - INFO - X download page accessed
+2025-05-20 22:27:53,133 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:27:53] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:27:54,006 - neobyte - INFO - X download page accessed
+2025-05-20 22:27:54,006 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:27:54] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:27:56,058 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:27:56,059 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:27:56] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:27:57,018 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:27:57,019 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:27:57] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:28:00,337 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:28:00] "GET / HTTP/1.1" 200 -
+2025-05-20 22:28:01,302 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:28:01] "GET / HTTP/1.1" 200 -
+2025-05-20 22:28:14,825 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:28:14,830 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:28:14] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:29:08,386 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:29:08] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:29:11,123 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:29:11] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:29:12,762 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:29:12] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:29:21,712 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:29:21] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:29:56,285 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:29:56,383 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:29:56,853 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:29:56,865 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:29:56,872 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:29:57,746 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:29:57,784 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:29:58,140 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:29:58,153 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:29:58,159 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:30:59,276 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:30:59] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:31:07,897 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:31:08,027 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:31:08,428 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:31:08,443 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:31:08,450 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:31:09,520 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:31:09,570 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:31:09,946 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:31:09,957 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:31:09,964 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:31:47,876 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:31:47,889 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:31:47] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:32:16,136 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:32:16] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:34:11,566 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:34:11,567 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:34:11] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:34:20,720 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:34:20,721 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:34:20] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:34:39,620 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:34:39] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:36:47,361 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:36:47,433 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:36:47,642 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:36:47,829 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:36:48,015 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:36:48,036 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:36:48,051 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:36:48,248 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:36:48,259 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:36:48,266 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:37:29,361 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:37:29,381 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:37:29] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:37:33,225 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:37:33,353 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:37:33,771 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:37:33,784 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:37:33,791 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:37:38,038 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:37:38,078 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:37:38,485 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:37:38,507 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:37:38,516 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:38:37,812 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:38:37] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:39:10,837 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:39:10] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:45:44,303 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:45:44,633 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:45:45,350 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:45:45,372 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:45:45,386 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:45:52,159 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:45:52,379 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:45:53,315 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:45:53,350 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:45:53,369 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:46:29,484 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:46:29,719 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:46:30,595 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:46:30,627 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:46:30,648 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:46:39,237 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:46:39,351 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:46:39,973 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:46:39,994 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:46:40,007 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:46:46,518 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:46:46,519 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:46:46,520 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:46:46,525 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:46:46] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:46:46,531 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:46:46] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:46:46,532 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:46:46] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:46:46,533 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:46:46,535 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:46:46,536 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:46:46] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:46:46,542 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:46:46] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:46:48,328 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:46:48,329 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:46:48] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:46:59,544 - neobyte - INFO - Downloading Instagram content from: https://www.instagram.com/reel/C5aJlKzpU4_/?utm_source=ig_web_button_share_sheet
+2025-05-20 22:47:04,613 - neobyte - INFO - Successfully downloaded Instagram content: Video by prati_kshaaa.mp4
+2025-05-20 22:47:04,620 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:47:04] "POST /instagram_download HTTP/1.1" 200 -
+2025-05-20 22:48:28,102 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:48:28,193 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:48:28,557 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:48:28,568 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:48:28,575 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:48:30,047 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:48:30,101 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:48:30,449 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:48:30,462 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:48:30,470 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:48:43,378 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:48:43,426 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:48:43,934 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:48:43,947 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:48:43,955 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:48:44,402 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:48:44,458 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:48:44,904 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:48:44,917 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:48:44,925 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:48:58,153 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:48:58,160 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:48:58] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:49:01,208 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:49:01,236 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:49:01] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:49:02,771 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:49:02] "GET / HTTP/1.1" 200 -
+2025-05-20 22:49:05,724 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:49:05,725 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:49:05] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:49:07,796 - neobyte - INFO - X download page accessed
+2025-05-20 22:49:07,809 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:49:07] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:49:11,026 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:49:11,042 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:49:11] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:49:16,952 - neobyte - INFO - Downloading Instagram content from: https://www.instagram.com/reel/C5aJlKzpU4_/?utm_source=ig_web_button_share_sheet
+2025-05-20 22:49:21,244 - neobyte - INFO - Successfully downloaded Instagram content: Video by prati_kshaaa.mp4
+2025-05-20 22:49:21,250 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:49:21] "POST /instagram_download HTTP/1.1" 200 -
+2025-05-20 22:50:08,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:50:08,724 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:50:09,155 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:50:09,173 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:50:09,186 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:50:13,661 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:50:13,716 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:50:14,195 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:50:14,209 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:50:14,219 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:50:14,420 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:50:14,426 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:50:14] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:50:17,124 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:50:17] "GET / HTTP/1.1" 200 -
+2025-05-20 22:50:18,811 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:50:18] "GET / HTTP/1.1" 200 -
+2025-05-20 22:50:23,677 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:50:23,688 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:50:23] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:52:04,592 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:52:04] "POST /download HTTP/1.1" 200 -
+2025-05-20 22:52:59,017 - neobyte - INFO - YouTube download page accessed
+2025-05-20 22:52:59,019 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:52:59] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 22:53:00,378 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:53:00,379 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:53:00] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:53:04,238 - neobyte - INFO - Downloading Instagram content from: https://www.instagram.com/reel/C5aJlKzpU4_/?utm_source=ig_web_button_share_sheet
+2025-05-20 22:53:06,802 - neobyte - INFO - Successfully downloaded Instagram content: Video by prati_kshaaa.mp4
+2025-05-20 22:53:06,806 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:53:06] "POST /instagram_download HTTP/1.1" 200 -
+2025-05-20 22:53:24,535 - neobyte - INFO - Instagram download page accessed
+2025-05-20 22:53:24,536 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:53:24] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 22:53:27,451 - neobyte - INFO - X download page accessed
+2025-05-20 22:53:27,459 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:53:27] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:56:54,919 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:56:55,076 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:56:55,705 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:56:55,712 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:56:55,732 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:56:55,744 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:56:55,769 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:56:56,294 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:56:56,316 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:56:56,331 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:57:17,363 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:57:17,409 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:57:17,861 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:57:17,876 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:57:17,884 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:57:17,970 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:57:18,020 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:57:18,454 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 22:57:18,474 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 22:57:18,490 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 22:57:24,322 - neobyte - INFO - X download page accessed
+2025-05-20 22:57:24,331 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 22:57:24] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 22:59:59,879 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:59:59,912 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 22:59:59,921 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 22:59:59,969 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:00:00,474 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:00:00,487 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:00:00,492 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:00:00,495 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:00:00,504 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:00:00,512 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:01:14,488 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:14] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 23:01:19,210 - neobyte - INFO - X download page accessed
+2025-05-20 23:01:19,227 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:19] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:01:19,557 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:19] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 23:01:26,810 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-05-20 23:01:29,989 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:29] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 23:01:30,260 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:30] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 23:01:32,258 - neobyte - INFO - X download page accessed
+2025-05-20 23:01:32,259 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:32] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:01:32,822 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:32] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-20 23:01:43,588 - neobyte - INFO - Converting X URL to Twitter format: https://x.com/Vini__007/status/1917652465995977023?t=b_FdrQ52UGoZr4kHl_rwpA&s=19 
+2025-05-20 23:01:45,752 - neobyte - INFO - Converting X URL to Twitter format: https://x.com/Vini__007/status/1917652465995977023?t=b_FdrQ52UGoZr4kHl_rwpA&s=19 
+2025-05-20 23:01:47,413 - neobyte - INFO - Downloading X content from: https://twitter.com/Vini__007/status/1917652465995977023?t=b_FdrQ52UGoZr4kHl_rwpA&s=19 
+2025-05-20 23:01:47,430 - neobyte - INFO - Downloading X content from: https://twitter.com/Vini__007/status/1917652465995977023?t=b_FdrQ52UGoZr4kHl_rwpA&s=19 
+2025-05-20 23:01:55,413 - neobyte - INFO - X content downloaded: VINI\U0001f49e - \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u091c\u094d\u092f\u093e\u0926\u093e\u0924\u0930 \u0905\u0902\u0927\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0940,\u0905\u0928\u092a\u0922\u093c,\u0917\u0935\u093e\u0930 \u0932\u094b\u0917\u094b \u0915\u094b \u0926\u093f\u0916\u093e\u0913 \u091c\u094b \u0915\u092c\u094d\u0930\u094b \u092a\u0930 \u091c....mp4 (3406269 bytes)
+2025-05-20 23:01:55,542 - neobyte - INFO - X content downloaded: VINI\U0001f49e - \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u091c\u094d\u092f\u093e\u0926\u093e\u0924\u0930 \u0905\u0902\u0927\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0940,\u0905\u0928\u092a\u0922\u093c,\u0917\u0935\u093e\u0930 \u0932\u094b\u0917\u094b \u0915\u094b \u0926\u093f\u0916\u093e\u0913 \u091c\u094b \u0915\u092c\u094d\u0930\u094b \u092a\u0930 \u091c....mp4 (3406269 bytes)
+2025-05-20 23:01:56,628 - neobyte - INFO - Successfully downloaded X content: VINI\U0001f49e - \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u091c\u094d\u092f\u093e\u0926\u093e\u0924\u0930 \u0905\u0902\u0927\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0940,\u0905\u0928\u092a\u0922\u093c,\u0917\u0935\u093e\u0930 \u0932\u094b\u0917\u094b \u0915\u094b \u0926\u093f\u0916\u093e\u0913 \u091c\u094b \u0915\u092c\u094d\u0930\u094b \u092a\u0930 \u091c....mp4
+2025-05-20 23:01:56,636 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:56] "POST /twitter_download HTTP/1.1" 200 -
+2025-05-20 23:01:56,679 - neobyte - INFO - Successfully downloaded X content: VINI\U0001f49e - \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u091c\u094d\u092f\u093e\u0926\u093e\u0924\u0930 \u0905\u0902\u0927\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0940,\u0905\u0928\u092a\u0922\u093c,\u0917\u0935\u093e\u0930 \u0932\u094b\u0917\u094b \u0915\u094b \u0926\u093f\u0916\u093e\u0913 \u091c\u094b \u0915\u092c\u094d\u0930\u094b \u092a\u0930 \u091c....mp4
+2025-05-20 23:01:56,684 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:01:56] "POST /twitter_download HTTP/1.1" 200 -
+2025-05-20 23:02:28,150 - neobyte - INFO - X download page accessed
+2025-05-20 23:02:28,153 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:02:28] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:02:31,889 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:02:31,917 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:02:31] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:02:34,107 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:02:34] "GET / HTTP/1.1" 200 -
+2025-05-20 23:02:52,371 - neobyte - INFO - X download page accessed
+2025-05-20 23:02:52,372 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:02:52] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:05:50,123 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:05:50,172 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:05:50,572 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:05:50,586 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:05:50,594 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:05:50,816 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:05:50,915 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:05:51,337 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:05:51,350 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:05:51,357 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:06:10,202 - neobyte - INFO - X download page accessed
+2025-05-20 23:06:10,274 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:10] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:06:10,556 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:10] "GET /static/css/twitter.css HTTP/1.1" 200 -
+2025-05-20 23:06:10,620 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:10] "GET /static/js/twitter-downloader.js HTTP/1.1" 200 -
+2025-05-20 23:06:12,676 - neobyte - INFO - X download page accessed
+2025-05-20 23:06:12,677 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:12] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:06:13,015 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:13] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:06:13,017 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:13] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:06:15,939 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:15] "GET / HTTP/1.1" 200 -
+2025-05-20 23:06:20,386 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:06:20,397 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:20] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:06:24,604 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:06:24,614 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:24] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:06:43,871 - neobyte - INFO - X download page accessed
+2025-05-20 23:06:43,871 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:43] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:06:44,136 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:44] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:06:44,216 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:06:44] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:07:57,420 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:07:57,463 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:07:58,001 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:07:58,064 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:10:24,635 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:10:24,664 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 23:10:24,664 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 23:10:24,667 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:10:25,178 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:10:25,199 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:10:25,214 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:10:30,814 - neobyte - INFO - X download page accessed
+2025-05-20 23:10:30,828 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:10:30] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:10:30,947 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:10:30] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:10:31,179 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:10:31] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:11:15,670 - neobyte - INFO - X download page accessed
+2025-05-20 23:11:15,671 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:15] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:11:15,916 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:15] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:11:16,012 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:16] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:11:17,939 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:17] "GET / HTTP/1.1" 200 -
+2025-05-20 23:11:39,473 - neobyte - INFO - X download page accessed
+2025-05-20 23:11:39,483 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:39] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:11:39,738 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:39] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:11:39,850 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:39] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:11:43,971 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:11:44,004 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:44] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:11:45,603 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:11:45,615 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:45] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:11:47,144 - neobyte - INFO - X download page accessed
+2025-05-20 23:11:47,147 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:47] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:11:47,541 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:47] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:11:47,544 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:47] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:11:49,718 - neobyte - INFO - X download page accessed
+2025-05-20 23:11:49,719 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:49] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:11:50,076 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:50] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:11:50,078 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:11:50] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:12:04,134 - neobyte - INFO - X download page accessed
+2025-05-20 23:12:04,135 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:12:04] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:12:04,469 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:12:04] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:12:04,470 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:12:04] "GET /static/css/twitter.css HTTP/1.1" 200 -
+2025-05-20 23:12:26,752 - neobyte - INFO - X download page accessed
+2025-05-20 23:12:26,757 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:12:26] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:12:27,096 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:12:27] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:12:27,098 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:12:27] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:12:59,736 - neobyte - INFO - X download page accessed
+2025-05-20 23:12:59,747 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:12:59] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:13:00,101 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:13:00] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:13:00,102 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:13:00] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:13:04,973 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:13:04,974 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:13:04] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:13:06,580 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:13:06,583 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:13:06] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:13:07,768 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:13:07] "GET / HTTP/1.1" 200 -
+2025-05-20 23:13:25,820 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:13:25,914 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:13:26,457 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:13:26,473 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:13:26,481 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:16:35,077 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:16:35] "GET / HTTP/1.1" 200 -
+2025-05-20 23:16:37,391 - neobyte - INFO - X download page accessed
+2025-05-20 23:16:37,406 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:16:37] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:16:37,963 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:16:37] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:16:37,967 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:16:37] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:17:03,549 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:17:03,560 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:17:03] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:17:10,410 - neobyte - INFO - Downloading Instagram content from: https://www.instagram.com/reel/C5aJlKzpU4_/?utm_source=ig_web_button_share_sheet
+2025-05-20 23:17:13,693 - neobyte - INFO - Successfully downloaded Instagram content: Video by prati_kshaaa.mp4
+2025-05-20 23:17:13,698 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:17:13] "POST /instagram_download HTTP/1.1" 200 -
+2025-05-20 23:18:24,910 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:18:25,059 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:18:25] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:19:41,845 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:19:41] "POST /download HTTP/1.1" 200 -
+2025-05-20 23:20:26,942 - neobyte - INFO - X download page accessed
+2025-05-20 23:20:26,956 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:20:26] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:20:27,212 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:20:27] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:20:27,347 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:20:27] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:20:50,399 - neobyte - INFO - Converting X URL to Twitter format: https://x.com/realDonaldTrump/status/1921174163848401313?t=xPRFoAQB61gY4598lJ9rZw&s=08 
+2025-05-20 23:20:50,737 - neobyte - INFO - Downloading X content from: https://twitter.com/realDonaldTrump/status/1921174163848401313?t=xPRFoAQB61gY4598lJ9rZw&s=08 
+2025-05-20 23:20:52,871 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:20:52] "[31m[1mPOST /twitter_download HTTP/1.1[0m" 400 -
+2025-05-20 23:21:32,117 - neobyte - INFO - Converting X URL to Twitter format: https://x.com/Vini__007/status/1917652465995977023?t=b_FdrQ52UGoZr4kHl_rwpA&s=19 
+2025-05-20 23:21:32,255 - neobyte - INFO - Downloading X content from: https://twitter.com/Vini__007/status/1917652465995977023?t=b_FdrQ52UGoZr4kHl_rwpA&s=19 
+2025-05-20 23:21:35,287 - neobyte - INFO - X content downloaded: VINI\U0001f49e - \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u091c\u094d\u092f\u093e\u0926\u093e\u0924\u0930 \u0905\u0902\u0927\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0940,\u0905\u0928\u092a\u0922\u093c,\u0917\u0935\u093e\u0930 \u0932\u094b\u0917\u094b \u0915\u094b \u0926\u093f\u0916\u093e\u0913 \u091c\u094b \u0915\u092c\u094d\u0930\u094b \u092a\u0930 \u091c....mp4 (3406269 bytes)
+2025-05-20 23:21:35,308 - neobyte - INFO - Successfully downloaded X content: VINI\U0001f49e - \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u091c\u094d\u092f\u093e\u0926\u093e\u0924\u0930 \u0905\u0902\u0927\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0940,\u0905\u0928\u092a\u0922\u093c,\u0917\u0935\u093e\u0930 \u0932\u094b\u0917\u094b \u0915\u094b \u0926\u093f\u0916\u093e\u0913 \u091c\u094b \u0915\u092c\u094d\u0930\u094b \u092a\u0930 \u091c....mp4
+2025-05-20 23:21:35,312 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:21:35] "POST /twitter_download HTTP/1.1" 200 -
+2025-05-20 23:21:43,258 - neobyte - INFO - X download page accessed
+2025-05-20 23:21:43,260 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:21:43] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:21:43,605 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:21:43] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:21:43,607 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:21:43] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:21:58,373 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:21:58,656 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:21:59,641 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:21:59,671 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:21:59,690 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:22:07,914 - neobyte - INFO - X download page accessed
+2025-05-20 23:22:07,949 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:07] "GET / HTTP/1.1" 200 -
+2025-05-20 23:22:07,968 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:07] "GET / HTTP/1.1" 200 -
+2025-05-20 23:22:07,969 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:07] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:22:09,450 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:09] "GET / HTTP/1.1" 200 -
+2025-05-20 23:22:12,386 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:22:12,432 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:12] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:22:14,662 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:22:14,678 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:14] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:22:16,692 - neobyte - INFO - X download page accessed
+2025-05-20 23:22:16,693 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:16] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:22:17,175 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:17] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:22:17,250 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:17] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:22:19,005 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:22:19] "GET / HTTP/1.1" 200 -
+2025-05-20 23:33:01,027 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:33:01,119 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-20 23:33:01,119 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 23:33:01,121 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:33:01,661 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:33:01,686 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:33:01,712 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:33:17,680 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:33:17] "GET / HTTP/1.1" 200 -
+2025-05-20 23:33:19,815 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:33:19,836 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:33:19] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:33:54,965 - neobyte - ERROR - Error downloading https://youtu.be/kFHTo7sB21s?si=-05RG3tL-b_3RNCa: [0;31mERROR:[0m [youtube] kFHTo7sB21s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:33:54,968 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:33:54] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:34:36,322 - neobyte - ERROR - Error downloading https://youtu.be/kFHTo7sB21s?si=-05RG3tL-b_3RNCa: [0;31mERROR:[0m [youtube] kFHTo7sB21s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:34:36,323 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:34:36] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:34:38,682 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:34:38,684 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:34:38] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:34:48,827 - neobyte - ERROR - Error downloading https://youtu.be/kFHTo7sB21s?si=-05RG3tL-b_3RNCa: [0;31mERROR:[0m [youtube] kFHTo7sB21s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:34:48,827 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:34:48] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:34:54,346 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:34:54,361 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:34:54] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:35:12,370 - neobyte - INFO - Downloading Instagram content from: https://www.instagram.com/reel/C5aJlKzpU4_/?utm_source=ig_web_button_share_sheet
+2025-05-20 23:35:15,383 - neobyte - INFO - Successfully downloaded Instagram content: Video by prati_kshaaa.mp4
+2025-05-20 23:35:15,388 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:35:15] "POST /instagram_download HTTP/1.1" 200 -
+2025-05-20 23:35:23,998 - neobyte - INFO - X download page accessed
+2025-05-20 23:35:24,011 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:35:24] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:35:24,263 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:35:24] "GET /static/css/twitter.css HTTP/1.1" 200 -
+2025-05-20 23:35:24,382 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:35:24] "GET /static/js/twitter-downloader.js HTTP/1.1" 200 -
+2025-05-20 23:35:31,982 - neobyte - INFO - Converting X URL to Twitter format: https://x.com/Vini__007/status/1917652465995977023?t=b_FdrQ52UGoZr4kHl_rwpA&s=19 
+2025-05-20 23:35:32,367 - neobyte - INFO - Downloading X content from: https://twitter.com/Vini__007/status/1917652465995977023?t=b_FdrQ52UGoZr4kHl_rwpA&s=19 
+2025-05-20 23:35:35,525 - neobyte - INFO - X content downloaded: VINI\U0001f49e - \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u091c\u094d\u092f\u093e\u0926\u093e\u0924\u0930 \u0905\u0902\u0927\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0940,\u0905\u0928\u092a\u0922\u093c,\u0917\u0935\u093e\u0930 \u0932\u094b\u0917\u094b \u0915\u094b \u0926\u093f\u0916\u093e\u0913 \u091c\u094b \u0915\u092c\u094d\u0930\u094b \u092a\u0930 \u091c....mp4 (3406269 bytes)
+2025-05-20 23:35:35,549 - neobyte - INFO - Successfully downloaded X content: VINI\U0001f49e - \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u091c\u094d\u092f\u093e\u0926\u093e\u0924\u0930 \u0905\u0902\u0927\u0935\u093f\u0936\u094d\u0935\u093e\u0938\u0940,\u0905\u0928\u092a\u0922\u093c,\u0917\u0935\u093e\u0930 \u0932\u094b\u0917\u094b \u0915\u094b \u0926\u093f\u0916\u093e\u0913 \u091c\u094b \u0915\u092c\u094d\u0930\u094b \u092a\u0930 \u091c....mp4
+2025-05-20 23:35:35,553 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:35:35] "POST /twitter_download HTTP/1.1" 200 -
+2025-05-20 23:35:43,808 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:35:43,809 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:35:43] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:36:15,315 - neobyte - ERROR - Error downloading https://youtu.be/f18cpg-mTrY?si=03sPsx8GS8T-MZm9: [0;31mERROR:[0m [youtube] f18cpg-mTrY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:36:15,316 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:36:15] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:37:30,777 - neobyte - ERROR - Error downloading https://youtu.be/f18cpg-mTrY?si=03sPsx8GS8T-MZm9: [0;31mERROR:[0m [youtube] f18cpg-mTrY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:37:30,778 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:37:30] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:37:38,863 - neobyte - ERROR - Error downloading https://youtu.be/f18cpg-mTrY?si=03sPsx8GS8T-MZm9: [0;31mERROR:[0m [youtube] f18cpg-mTrY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:37:38,863 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:37:38] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:38:45,333 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:38:45,466 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:38:46,050 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:38:46,099 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:38:46,115 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:39:02,829 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:39:02,847 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:39:02] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:39:24,502 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:39:24,510 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:39:24] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:39:41,372 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:39:41,391 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:39:41] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:39:46,760 - neobyte - INFO - X download page accessed
+2025-05-20 23:39:46,789 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:39:46] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:39:47,459 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:39:47] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:39:47,462 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:39:47] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:39:48,599 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:39:48,601 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:39:48] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:40:25,957 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:40:25,969 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:40:25] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:40:39,361 - neobyte - ERROR - yt-dlp download error for {   "error": "Error downloading https://youtu.be/f18cpg-mTrY?si=03sPsx8GS8T-MZm9: \u001b[0;31mERROR:\u001b[0m [youtube] f18cpg-mTrY: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies" }: [0;31mERROR:[0m [generic] '{   "error": "Error downloading https://youtu.be/f18cpg-mTrY?si=03sPsx8GS8T-MZm9: \\u001b[0;31mERROR:\\u001b[0m [youtube] f18cpg-mTrY: Sign in to confirm you\\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies" }' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:{   "error": "Error downloading https://youtu.be/f18cpg-mTrY?si=03sPsx8GS8T-MZm9: \u001b[0;31mERROR:\u001b[0m [youtube] f18cpg-mTrY: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies" }" ) to search YouTube
+2025-05-20 23:40:39,361 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:40:39] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:41:20,372 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:41:20,379 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:41:20] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:43:07,939 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:43:07,941 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:43:07] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:43:14,699 - neobyte - INFO - X download page accessed
+2025-05-20 23:43:14,704 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:43:14] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:43:15,052 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:43:15] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:43:15,053 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:43:15] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:43:22,564 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:43:22,567 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:43:22] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:43:47,958 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:43:47,969 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:43:47] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:43:55,103 - neobyte - ERROR - yt-dlp download error for https://youtu.be/45mT6CvbjkA?si=yRGpAicSq7oAyo6w: [0;31mERROR:[0m [youtube] 45mT6CvbjkA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:43:55,105 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:43:55] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:44:35,250 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:44:35,319 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:44:35] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:44:35,381 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:44:35,545 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:44:36,124 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:44:36,141 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:44:36,154 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:44:46,474 - neobyte - ERROR - Error downloading https://youtu.be/45mT6CvbjkA?si=yRGpAicSq7oAyo6w: [0;31mERROR:[0m [youtube] 45mT6CvbjkA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:44:46,476 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:44:46] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:53:38,803 - neobyte - ERROR - Error downloading https://youtu.be/45mT6CvbjkA?si=yRGpAicSq7oAyo6w: [0;31mERROR:[0m [youtube] 45mT6CvbjkA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:53:38,805 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:53:38] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:53:44,444 - neobyte - ERROR - Error downloading https://youtu.be/45mT6CvbjkA?si=yRGpAicSq7oAyo6w: [0;31mERROR:[0m [youtube] 45mT6CvbjkA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:53:44,445 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:53:44] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:53:54,681 - neobyte - ERROR - Error downloading https://youtu.be/45mT6CvbjkA?si=yRGpAicSq7oAyo6w: [0;31mERROR:[0m [youtube] 45mT6CvbjkA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:53:54,681 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:53:54] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:54:27,249 - neobyte - ERROR - Error downloading https://youtu.be/45mT6CvbjkA?si=yRGpAicSq7oAyo6w: [0;31mERROR:[0m [youtube] 45mT6CvbjkA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:54:27,250 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:54:27] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:54:30,081 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:54:30,104 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:54:30] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:55:06,466 - neobyte - ERROR - Error downloading https://youtu.be/6ZwwapPikyQ?si=flAKaP94dlpz8UJ3: [0;31mERROR:[0m [youtube] 6ZwwapPikyQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-20 23:55:06,466 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:55:06] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-20 23:58:00,317 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:58:00,318 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:00] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:58:02,992 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:58:03,011 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:03] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:58:09,285 - neobyte - INFO - X download page accessed
+2025-05-20 23:58:09,302 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:09] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:58:09,818 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:09] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:58:09,905 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:09] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:58:23,427 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:58:23,428 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:23] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:58:26,434 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:58:26,436 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:26] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:58:28,110 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:28] "GET / HTTP/1.1" 200 -
+2025-05-20 23:58:30,707 - neobyte - INFO - Instagram download page accessed
+2025-05-20 23:58:30,709 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:30] "GET /instagram HTTP/1.1" 200 -
+2025-05-20 23:58:32,171 - neobyte - INFO - X download page accessed
+2025-05-20 23:58:32,175 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:32] "GET /twitter HTTP/1.1" 200 -
+2025-05-20 23:58:32,510 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:32] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-20 23:58:32,511 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:32] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-20 23:58:34,149 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:58:34,151 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:34] "GET /youtube HTTP/1.1" 200 -
+2025-05-20 23:58:48,898 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-20 23:58:49,060 - werkzeug - INFO -  * Restarting with stat
+2025-05-20 23:58:49,644 - neobyte - INFO - NeoByte Downloader application started
+2025-05-20 23:58:49,664 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 23:58:49,675 - werkzeug - INFO -  * Debugger PIN: 445-376-649
+2025-05-20 23:58:56,104 - neobyte - INFO - YouTube download page accessed
+2025-05-20 23:58:56,122 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 23:58:56] "GET /youtube HTTP/1.1" 200 -
+2025-05-21 00:01:38,631 - neobyte - INFO - YouTube download page accessed
+2025-05-21 00:01:38,643 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:01:38] "GET /youtube HTTP/1.1" 200 -
+2025-05-21 00:02:06,065 - neobyte - INFO - Attempting to download with pytube: https://youtu.be/30YNd5fEGMo?si=LAFFvBA6DuSHs802
+2025-05-21 00:02:06,303 - neobyte - ERROR - Pytube download failed: HTTP Error 400: Bad Request
+2025-05-21 00:02:06,304 - neobyte - INFO - Falling back to yt-dlp with alternative options...
+2025-05-21 00:02:10,914 - neobyte - ERROR - Error downloading https://youtu.be/30YNd5fEGMo?si=LAFFvBA6DuSHs802: [0;31mERROR:[0m [youtube] 30YNd5fEGMo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+2025-05-21 00:02:10,916 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:02:10] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-05-21 00:03:16,526 - neobyte - INFO - Instagram download page accessed
+2025-05-21 00:03:16,540 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:03:16] "GET /instagram HTTP/1.1" 200 -
+2025-05-21 00:03:21,093 - neobyte - INFO - X download page accessed
+2025-05-21 00:03:21,114 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:03:21] "GET /twitter HTTP/1.1" 200 -
+2025-05-21 00:03:21,798 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:03:21] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-21 00:03:21,811 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:03:21] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-21 00:03:23,526 - neobyte - INFO - YouTube download page accessed
+2025-05-21 00:03:23,528 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:03:23] "GET /youtube HTTP/1.1" 200 -
+2025-05-21 00:03:28,060 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:03:28] "GET / HTTP/1.1" 200 -
+2025-05-21 00:04:15,269 - neobyte - INFO - Instagram download page accessed
+2025-05-21 00:04:15,270 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:15] "GET /instagram HTTP/1.1" 200 -
+2025-05-21 00:04:23,290 - neobyte - INFO - X download page accessed
+2025-05-21 00:04:23,293 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:23] "GET /twitter HTTP/1.1" 200 -
+2025-05-21 00:04:23,557 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:23] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-21 00:04:23,635 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:23] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-21 00:04:32,479 - neobyte - INFO - YouTube download page accessed
+2025-05-21 00:04:32,482 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:32] "GET /youtube HTTP/1.1" 200 -
+2025-05-21 00:04:41,459 - neobyte - INFO - Instagram download page accessed
+2025-05-21 00:04:41,460 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:41] "GET /instagram HTTP/1.1" 200 -
+2025-05-21 00:04:43,194 - neobyte - INFO - X download page accessed
+2025-05-21 00:04:43,196 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:43] "GET /twitter HTTP/1.1" 200 -
+2025-05-21 00:04:43,543 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:43] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-21 00:04:43,544 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:43] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-21 00:04:45,288 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:45] "GET / HTTP/1.1" 200 -
+2025-05-21 00:04:47,960 - neobyte - INFO - YouTube download page accessed
+2025-05-21 00:04:47,962 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:47] "GET /youtube HTTP/1.1" 200 -
+2025-05-21 00:04:54,934 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:04:54] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-21 00:05:16,504 - neobyte - INFO - Instagram download page accessed
+2025-05-21 00:05:16,506 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:16] "GET /instagram HTTP/1.1" 200 -
+2025-05-21 00:05:16,769 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:16] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-21 00:05:29,887 - neobyte - INFO - X download page accessed
+2025-05-21 00:05:29,889 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:29] "GET /twitter HTTP/1.1" 200 -
+2025-05-21 00:05:30,245 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:30] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-21 00:05:30,255 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:30] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-21 00:05:30,256 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:30] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-21 00:05:42,618 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:42] "GET / HTTP/1.1" 200 -
+2025-05-21 00:05:42,973 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:42] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-21 00:05:49,217 - neobyte - INFO - X download page accessed
+2025-05-21 00:05:49,219 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:49] "GET /twitter HTTP/1.1" 200 -
+2025-05-21 00:05:49,610 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:49] "[36mGET /static/css/twitter.css HTTP/1.1[0m" 304 -
+2025-05-21 00:05:49,630 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:49] "[36mGET /static/js/twitter-downloader.js HTTP/1.1[0m" 304 -
+2025-05-21 00:05:49,647 - werkzeug - INFO - 127.0.0.1 - - [21/May/2025 00:05:49] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-21 00:05:54,532 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Desktop\\ytdownload\\TWO\\NeoByte\\app.py', reloading
+2025-05-21 00:05:54,802 - werkzeug - INFO -  * Restarting with stat

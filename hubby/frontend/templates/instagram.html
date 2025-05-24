@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>Instagram Downloader | #1 Free Instagram Reels & Stories Saver 2025 - NeoByte</title>
+    <meta name="description" content="Download Instagram videos, reels, stories & posts in HD quality with NeoByte's #1 rated Instagram downloader. Ultra-fast, 100% secure, no watermarks or ads.">
+    <meta name="keywords" content="instagram downloader, reels downloader, instagram video downloader, download instagram stories, save instagram posts, instagram saver, instagram reels download, instagram story saver, instagram video saver, best instagram downloader 2025, insta video download, insta reels download">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="NeoByte">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ request.base_url }}">
+    <meta property="og:title" content="Instagram Downloader | #1 Free Instagram Reels & Stories Saver 2025 - NeoByte">
+    <meta property="og:description" content="Download Instagram videos, reels, stories & posts in HD quality. Ultra-fast, 100% secure and free with no watermarks or ads.">
+    <meta property="og:image" content="{{ url_for('static', filename='img/instagram-downloader-preview.jpg', _external=True) }}">
+    <meta property="og:site_name" content="NeoByte Instagram Downloader">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter / X Meta Tags -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ request.base_url }}">
+    <meta property="twitter:title" content="Instagram Downloader | #1 Free Instagram Reels & Stories Saver 2025 - NeoByte">
+    <meta property="twitter:description" content="Download Instagram videos, reels, stories & posts in HD quality. Ultra-fast, 100% secure and free with no watermarks or ads.">
+    <meta property="twitter:image" content="{{ url_for('static', filename='img/instagram-downloader-preview.jpg', _external=True) }}">
+    <meta property="twitter:creator" content="@neobyte_app">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ request.base_url }}">
+    
+    <!-- Alternate Language URLs -->
+    <link rel="alternate" hreflang="x-default" href="{{ request.url_root }}instagram">
+    <link rel="alternate" hreflang="en" href="{{ request.url_root }}instagram">
+    
+    <!-- Structured Data for Rich Snippets -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "NeoByte Instagram Downloader",
+      "url": "{{ request.url_root }}instagram",
+      "applicationCategory": "MultimediaApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "operatingSystem": "Any",
+      "description": "#1 Free Instagram downloader for videos, reels, and stories. Save Instagram content in HD quality with no watermarks, no ads, ultra-fast and secure.",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "ratingCount": "6245",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "featureList": ["Instagram Reels Downloader", "Instagram Stories Saver", "Instagram Video Downloads", "Instagram Photos Saver", "No Watermarks", "No Registration Required", "HD Quality"],
+      "keywords": "instagram downloader, reels downloader, instagram story saver, save instagram videos, insta reels download"
+    }
+    </script>
+    
+    <!-- FAQ Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "How do I download Instagram reels?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To download Instagram reels, copy the reel URL from Instagram, paste it into NeoByte Instagram Downloader, and click 'Download'. Your reel will be saved in HD quality without any watermarks."
+        }
+      },{
+        "@type": "Question",
+        "name": "Can I download Instagram stories with this tool?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes! NeoByte Instagram Downloader can save Instagram stories. Simply copy the profile URL while viewing the story, paste it into our tool, and we'll extract all available stories for you to download."
+        }
+      },{
+        "@type": "Question",
+        "name": "Is it safe to use NeoByte Instagram Downloader?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. NeoByte Instagram Downloader is 100% safe with no ads, malware or hidden fees. We don't store your data or Instagram login information, making it completely secure to use."
+        }
+      },{
+        "@type": "Question",
+        "name": "Do I need an Instagram account to use this downloader?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, you don't need an Instagram account to use our downloader. Simply copy the URL of any public Instagram content and paste it into our tool to download it instantly."
+        }
+      },{
+        "@type": "Question",
+        "name": "Will the downloaded Instagram videos have watermarks?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, all Instagram videos, reels, and stories downloaded with NeoByte Downloader are completely watermark-free. We preserve the original quality without adding any logos or watermarks."
+        }
+      }]
+    }
+    </script>
+    
+    <!-- Additional SEO Meta Tags -->
+    <meta name="application-name" content="NeoByte Instagram Downloader">
+    <meta name="msapplication-TileColor" content="#E1306C">
+    <meta name="theme-color" content="#E1306C">
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <style>
+        :root {
+            /* Dark theme (default) */
+            --primary-neon: #00ffdd;
+            --secondary-neon: #fe01fe;
+            --instagram-color: #E1306C;
+            --instagram-gradient-1: #833AB4;
+            --instagram-gradient-2: #FD1D1D;
+            --instagram-gradient-3: #F77737;
+            --primary-glow: #00c3ff;
+            --dark-bg: #0a0b1a;
+            --darker-bg: #070817;
+            --card-bg: rgba(15, 20, 40, 0.7);
+            --text-color: #e0e0ff;
+            --text-secondary: #a0a0d0;
+            --input-bg: rgba(20, 25, 45, 0.7);
+            --input-border: rgba(0, 195, 255, 0.2);
+            --box-shadow: 0 0 20px rgba(0, 195, 255, 0.2);
+        }
+        
+        body {
+            font-family: 'Rajdhani', 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, var(--dark-bg) 0%, var(--darker-bg) 100%);
+            color: var(--text-color);
+            min-height: 100vh;
+            position: relative;
+            overflow-x: hidden;
+        }
+        
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(90deg, var(--instagram-gradient-1), var(--instagram-gradient-2), var(--instagram-gradient-3));
+            z-index: 1000;
+        }
+        
+        .cyber-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(0,195,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0,195,255,0.03) 1px, transparent 1px);
+            background-size: 50px 50px;
+            z-index: -1;
+            pointer-events: none;
+        }
+        
+        /* Instagram-themed glow effect */
+        .insta-orb {
+            position: fixed;
+            width: 800px;
+            height: 800px;
+            border-radius: 50%;
+            background: radial-gradient(circle, 
+                rgba(131, 58, 180, 0.1) 0%, 
+                rgba(253, 29, 29, 0.05) 50%, 
+                rgba(247, 119, 55, 0.05) 75%,
+                transparent 100%);
+            top: 10%;
+            right: -200px;
+            z-index: -1;
+            pointer-events: none;
+            animation: orbFloat 15s infinite alternate ease-in-out;
+        }
+        
+        @keyframes orbFloat {
+            0% { transform: translateY(0) scale(1); opacity: 0.7; }
+            100% { transform: translateY(-100px) scale(1.1); opacity: 0.9; }
+        }
+        
+        .navbar {
+            background-color: rgba(10, 11, 26, 0.8);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(0, 195, 255, 0.1);
+        }
+        
+        .navbar-brand {
+            font-weight: 700;
+            letter-spacing: 1px;
+            color: var(--text-color);
+        }
+        
+        .navbar-brand .brand-highlight {
+            color: var(--primary-neon);
+            text-shadow: 0 0 10px var(--primary-neon);
+        }
+        
+        .navbar-nav .nav-link {
+            color: var(--text-secondary);
+            margin: 0 10px;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+        
+        .navbar-nav .nav-link:hover {
+            color: var(--text-color);
+        }
+        
+        .navbar-nav .nav-link::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            background: var(--primary-neon);
+            bottom: -3px;
+            left: 50%;
+            transform: translateX(-50%);
+            transition: all 0.3s ease;
+        }
+        
+        .navbar-nav .nav-link:hover::after {
+            width: 100%;
+        }
+        
+        .navbar-nav .nav-link.active {
+            color: var(--instagram-color);
+        }
+        
+        .navbar-nav .nav-link.active::after {
+            width: 80%;
+            background: var(--instagram-color);
+        }
+        
+        /* Instagram Section Styles */
+        .instagram-header {
+            text-align: center;
+            padding: 3rem 0 2rem;
+        }
+        
+        .download-form {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .insta-title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            position: relative;
+            display: inline-block;
+            color: var(--text-color);
+            position: relative;
+        }
+        
+        .insta-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 50%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--instagram-gradient-1), var(--instagram-gradient-2), var(--instagram-gradient-3));
+            border-radius: 3px;
+        }
+        
+        .insta-icon {
+            color: var(--instagram-color);
+            margin-right: 10px;
+            filter: drop-shadow(0 0 8px rgba(225, 48, 108, 0.8));
+        }
+        
+        .input-container {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .url-input {
+            background-color: var(--input-bg);
+            border: 1px solid var(--input-border);
+            color: var(--text-color);
+            padding: 15px 20px;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+        }
+        
+        .url-input:focus {
+            border-color: var(--instagram-color);
+            box-shadow: 0 0 0 0.2rem rgba(225, 48, 108, 0.25);
+            background-color: rgba(25, 30, 50, 0.7);
+        }
+        
+        .url-input::placeholder {
+            color: var(--text-secondary);
+            opacity: 0.7;
+        }
+        
+        .download-btn {
+            background: linear-gradient(45deg, var(--instagram-gradient-1), var(--instagram-gradient-2), var(--instagram-gradient-3));
+            border: none;
+            color: #fff;
+            font-weight: 700;
+            font-size: 1.1rem;
+            letter-spacing: 1px;
+            padding: 12px 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(225, 48, 108, 0.3);
+            transition: all 0.3s ease;
+            display: block;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+            text-transform: uppercase;
+        }
+        
+        .download-btn::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(
+                to bottom right,
+                rgba(255, 255, 255, 0) 0%,
+                rgba(255, 255, 255, 0.1) 100%
+            );
+            transform: rotate(45deg);
+            z-index: 0;
+            transition: all 0.5s ease;
+            opacity: 0;
+        }
+        
+        .download-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(225, 48, 108, 0.4);
+        }
+        
+        .download-btn:hover::before {
+            animation: shine 1.5s ease-out;
+        }
+        
+        @keyframes shine {
+            0% {
+                opacity: 0;
+                left: -50%;
+            }
+            50% {
+                opacity: 1;
+            }
+            100% {
+                opacity: 0;
+                left: 150%;
+            }
+        }
+        
+        /* Feature Section */
+        .features-section {
+            padding: 2rem 0 3rem;
+        }
+        
+        .feature-title {
+            text-align: center;
+            margin-bottom: 2rem;
+            font-size: 1.8rem;
+            font-weight: 600;
+        }
+        
+        .feature-card {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            height: 100%;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        }
+        
+        .feature-icon {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(45deg, var(--instagram-gradient-1), var(--instagram-gradient-2), var(--instagram-gradient-3));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: drop-shadow(0 0 5px rgba(225, 48, 108, 0.5));
+        }
+        
+        .feature-card h4 {
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-color);
+        }
+        
+        .feature-card p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+        
+        /* How to Use Section */
+        .how-to-section {
+            padding: 2rem 0 3rem;
+        }
+        
+        .how-to-title {
+            text-align: center;
+            margin-bottom: 2rem;
+            font-size: 1.8rem;
+            font-weight: 600;
+        }
+        
+        .step-card {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+        
+        .step-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        }
+        
+        .step-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background: linear-gradient(to bottom, var(--instagram-gradient-1), var(--instagram-gradient-3));
+        }
+        
+        .step-number {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            font-size: 3rem;
+            font-weight: 800;
+            color: rgba(255, 255, 255, 0.07);
+            line-height: 1;
+        }
+        
+        .step-card h4 {
+            font-size: 1.3rem;
+            margin-bottom: 0.8rem;
+            color: var(--text-color);
+        }
+        
+        .step-card p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin-bottom: 0;
+        }
+        
+        /* Footer */
+        .footer {
+            padding: 2rem 0 1rem;
+            text-align: center;
+            position: relative;
+        }
+        
+        .footer::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80%;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--text-secondary), transparent);
+        }
+        
+        .footer-text {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        
+        /* Scroll bar styling */
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: var(--darker-bg);
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary-glow);
+            border-radius: 3px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--primary-neon);
+        }
+        
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.5s ease-out forwards;
+        }
+        
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.3s; }
+        .delay-3 { animation-delay: 0.5s; }
+        .delay-4 { animation-delay: 0.7s; }
+    </style>
+</head>
+<body>
+    <!-- Background effects -->
+    <div class="cyber-grid"></div>
+    <div class="insta-orb"></div>
+    
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">NEO<span class="brand-highlight">BYTE</span></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/youtube">YouTube</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/instagram">Instagram</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/twitter">X</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- Instagram Download Section -->
+    <section class="instagram-header">
+        <div class="container">
+            <h1 class="insta-title"><i class="fab fa-instagram insta-icon"></i>Instagram Downloader</h1>
+            <p class="mb-4">Download Reels, Stories, Posts, and IGTV videos with just a single click</p>
+            <div class="badges mb-4">
+                <span class="badge me-2" style="background: linear-gradient(45deg, var(--instagram-gradient-1), var(--instagram-gradient-2));">Reels</span>
+                <span class="badge me-2" style="background: linear-gradient(45deg, var(--instagram-gradient-2), var(--instagram-gradient-3));">Stories</span>
+                <span class="badge me-2" style="background: linear-gradient(45deg, var(--instagram-gradient-3), var(--instagram-gradient-1));">Photos</span>
+                <span class="badge me-2" style="background: linear-gradient(45deg, var(--instagram-gradient-1), var(--instagram-gradient-3));">IGTV</span>
+                <span class="badge" style="background: linear-gradient(45deg, var(--instagram-gradient-2), var(--instagram-gradient-1));">Carousel Posts</span>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Download Form -->
+    <section class="download-form">
+        <div class="container">
+            <div class="input-container fade-in">
+                <div class="mb-3">
+                    <label for="url" class="form-label">Instagram URL</label>
+                    <input type="text" id="url" class="form-control url-input" placeholder="Paste your Instagram reel, video, or story link here...">
+                </div>
+                <button id="download-button" class="download-btn">
+                    <i class="fas fa-download me-2"></i> DOWNLOAD NOW
+                </button>
+                
+                <!-- Error message container -->
+                <div id="error-container" class="alert alert-danger mt-3" style="display: none;">
+                    <i class="fas fa-exclamation-circle me-2"></i>
+                    <span id="error-message"></span>
+                </div>
+                
+                <!-- Status message container -->
+                <div id="status-container" class="alert alert-info mt-3" style="display: none;">
+                    <i class="fas fa-spinner fa-spin me-2"></i>
+                    <span id="status-message">Processing your request...</span>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Features Section -->
+    <section class="features-section">
+        <div class="container">
+            <h2 class="feature-title">Premium Instagram Downloader Features</h2>
+            
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <div class="feature-card fade-in delay-1">
+                        <i class="fas fa-bolt feature-icon"></i>
+                        <h4>Lightning Fast</h4>
+                        <p>Download Instagram Reels, Stories, and Posts in seconds with our high-speed servers</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="feature-card fade-in delay-2">
+                        <i class="fas fa-shield-alt feature-icon"></i>
+                        <h4>Private & Secure</h4>
+                        <p>We don't store your data or content on our servers. Downloads are processed in real-time.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="feature-card fade-in delay-3">
+                        <i class="fas fa-tachometer-alt feature-icon"></i>
+                        <h4>High Quality</h4>
+                        <p>Download videos and reels in the highest available quality for the best viewing experience</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mt-3">
+                <div class="col-md-4 mb-4">
+                    <div class="feature-card fade-in delay-1">
+                        <i class="fas fa-film feature-icon"></i>
+                        <h4>Multiple Content Types</h4>
+                        <p>Download Reels, Stories, IGTV, photos, and carousel posts with just a single click</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="feature-card fade-in delay-2">
+                        <i class="fas fa-cloud-download-alt feature-icon"></i>
+                        <h4>Direct Downloads</h4>
+                        <p>Files download directly to your device with no ads, waiting, or redirects</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="feature-card fade-in delay-3">
+                        <i class="fas fa-mobile-alt feature-icon"></i>
+                        <h4>Mobile Friendly</h4>
+                        <p>Works perfectly on mobile devices - download content straight to your phone or tablet</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- How to Use Section -->
+    <section class="how-to-section">
+        <div class="container">
+            <h2 class="how-to-title">How to Download Instagram Content</h2>
+            
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <div class="step-card fade-in delay-1">
+                        <div class="step-number">1</div>
+                        <h4>Find the Instagram Content</h4>
+                        <p>Open the Instagram app or website and navigate to the Reel, Story, Post, or IGTV video you want to download.</p>
+                    </div>
+                    
+                    <div class="step-card fade-in delay-2">
+                        <div class="step-number">2</div>
+                        <h4>Copy the URL</h4>
+                        <p>For Reels/Posts: Tap the three dots (⋯) and select "Copy Link"<br>
+                           For Stories: You'll need the direct story URL (only public stories can be downloaded)</p>
+                    </div>
+                    
+                    <div class="step-card fade-in delay-3">
+                        <div class="step-number">3</div>
+                        <h4>Paste URL & Download</h4>
+                        <p>Paste the copied URL into the input box above and click the "DOWNLOAD NOW" button.</p>
+                    </div>
+                    
+                    <div class="step-card fade-in delay-4">
+                        <div class="step-number">4</div>
+                        <h4>Save to Your Device</h4>
+                        <p>Once processed, the content will automatically download to your device. For mobile users, it will be saved to your downloads folder.</p>
+                    </div>
+                    
+                    <div class="alert alert-info mt-4 fade-in delay-4">
+                        <i class="fas fa-info-circle me-2"></i>
+                        <strong>Important:</strong> This tool is for downloading content from public Instagram accounts only. Please respect copyright and only download content for personal use.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">© 2025 NeoByte Downloader | Download Instagram content for personal use only</p>
+        </div>
+    </footer>
+    
+    <!-- JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const urlInput = document.getElementById('url');
+            const downloadButton = document.getElementById('download-button');
+            const errorContainer = document.getElementById('error-container');
+            const errorMessage = document.getElementById('error-message');
+            const statusContainer = document.getElementById('status-container');
+            const statusMessage = document.getElementById('status-message');
+            
+            // Function to show error message
+            function showError(message) {
+                errorMessage.textContent = message;
+                errorContainer.style.display = 'block';
+                setTimeout(() => {
+                    errorContainer.style.display = 'none';
+                }, 10000); // Hide after 10 seconds
+            }
+            
+            // Function to show status message
+            function showStatus(message) {
+                statusMessage.textContent = message;
+                statusContainer.style.display = 'block';
+            }
+            
+            // Function to hide status message
+            function hideStatus() {
+                statusContainer.style.display = 'none';
+            }
+            
+            // Add animation for input when users paste content
+            urlInput.addEventListener('paste', function() {
+                setTimeout(() => {
+                    if (urlInput.value.trim()) {
+                        urlInput.classList.add('is-valid');
+                    }
+                }, 100);
+            });
+            
+            // Instagram download functionality
+            downloadButton.addEventListener('click', function() {
+                const url = urlInput.value.trim();
+                
+                // Hide any previous messages
+                errorContainer.style.display = 'none';
+                hideStatus();
+                
+                if (!url) {
+                    showError('Please enter an Instagram URL');
+                    return;
+                }
+                
+                // Check if it's an Instagram URL
+                if (!url.includes('instagram.com') && !url.includes('instagr.am')) {
+                    showError('Please enter a valid Instagram URL');
+                    return;
+                }
+                
+                // Update button state
+                downloadButton.innerHTML = '<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span> Processing...';
+                downloadButton.disabled = true;
+                
+                // Show status message
+                showStatus('Downloading content from Instagram. This may take a few moments...');
+                
+                // Create form for direct download
+                const form = document.createElement('form');
+                form.method = 'POST';
+                form.action = '/instagram_download';
+                form.style.display = 'none';
+                
+                // Add event listeners to detect errors
+                window.addEventListener('error', function() {
+                    // If there's any error, restore button
+                    downloadButton.innerHTML = '<i class="fas fa-download me-2"></i> DOWNLOAD NOW';
+                    downloadButton.disabled = false;
+                    hideStatus();
+                    showError('An unexpected error occurred. Please try again.');
+                }, { once: true });
+                
+                // Add URL
+                const urlField = document.createElement('input');
+                urlField.type = 'hidden';
+                urlField.name = 'url';
+                urlField.value = url;
+                form.appendChild(urlField);
+                
+                // Add form to body and submit
+                document.body.appendChild(form);
+                
+                // Submit the form to start the download
+                form.submit();
+                
+                // Clean up and reset after a delay
+                setTimeout(() => {
+                    // Restore button
+                    downloadButton.innerHTML = '<i class="fas fa-download me-2"></i> DOWNLOAD NOW';
+                    downloadButton.disabled = false;
+                    
+                    // Update status message
+                    showStatus('If the download doesn\'t start automatically, try again or check if the content is from a private account.');
+                    
+                    // Clean up form
+                    document.body.removeChild(form);
+                    
+                    // Hide status after 15 seconds
+                    setTimeout(() => {
+                        hideStatus();
+                    }, 15000);
+                }, 5000);
+            });
+        });
+    </script>
+</body>
+</html> 

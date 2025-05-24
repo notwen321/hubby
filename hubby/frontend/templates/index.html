@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>NeoByte - #1 Free Social Media Video Downloader | YouTube, Instagram, X/Twitter</title>
+    <meta name="description" content="Download videos from YouTube, Instagram, X/Twitter & more with NeoByte's #1 free multi-platform downloader. 4K quality, ultra-fast, 100% secure, no ads or watermarks.">
+    <meta name="keywords" content="video downloader, youtube downloader, instagram downloader, twitter downloader, x video downloader, social media downloader, download videos, free video downloader, 4k video downloader, mp3 converter, online video downloader, best video downloader 2025">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="NeoByte">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ request.base_url }}">
+    <meta property="og:title" content="NeoByte - #1 Free Social Media Video Downloader 2025">
+    <meta property="og:description" content="Download videos from YouTube, Instagram, X/Twitter & more in 4K quality. Ultra-fast, secure and 100% free with no watermarks or ads.">
+    <meta property="og:image" content="{{ url_for('static', filename='img/neobyte-preview.jpg', _external=True) }}">
+    <meta property="og:site_name" content="NeoByte Downloader">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter / X Meta Tags -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ request.base_url }}">
+    <meta property="twitter:title" content="NeoByte - #1 Free Social Media Video Downloader 2025">
+    <meta property="twitter:description" content="Download videos from YouTube, Instagram, X/Twitter & more in 4K quality. Ultra-fast, secure and 100% free with no watermarks or ads.">
+    <meta property="twitter:image" content="{{ url_for('static', filename='img/neobyte-preview.jpg', _external=True) }}">
+    <meta property="twitter:creator" content="@neobyte_app">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ request.base_url }}">
+    
+    <!-- Alternate Language URLs -->
+    <link rel="alternate" hreflang="x-default" href="{{ request.url_root }}">
+    <link rel="alternate" hreflang="en" href="{{ request.url_root }}">
+    
+    <!-- Structured Data for Rich Snippets -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "NeoByte Downloader",
+      "url": "{{ request.url_root }}",
+      "applicationCategory": "MultimediaApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "operatingSystem": "Any",
+      "description": "#1 Free online tool to download videos from YouTube, Instagram, X/Twitter and other social media platforms in 4K quality with no ads or watermarks.",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "ratingCount": "7328",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "featureList": ["YouTube Downloader", "Instagram Reels & Stories Downloader", "X/Twitter Video Downloader", "MP3 Converter", "4K Video Support", "No Watermarks", "Unlimited Free Downloads"],
+      "keywords": "video downloader, youtube downloader, instagram downloader, twitter downloader, free downloader, mp3 converter, 4k video download"
+    }
+    </script>
+    
+    <!-- FAQ Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "How do I download YouTube videos for free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "With NeoByte Downloader, simply paste the YouTube URL, select your preferred quality (up to 4K), and click 'Download'. It's free, fast, and works without registration."
+        }
+      },{
+        "@type": "Question",
+        "name": "Can I download Instagram reels and stories?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes! NeoByte Downloader supports Instagram reels, stories, and posts. Just paste the Instagram URL and our tool will extract the highest quality video for you to download."
+        }
+      },{
+        "@type": "Question",
+        "name": "Is it safe to download videos with NeoByte Downloader?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. NeoByte Downloader is 100% safe, with no ads, malware, or hidden fees. We don't store any of your data or downloaded content on our servers."
+        }
+      },{
+        "@type": "Question",
+        "name": "How can I convert YouTube videos to MP3?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To convert YouTube videos to MP3, paste the YouTube URL into NeoByte Downloader, select 'Audio' format, and click 'Download'. You'll get high-quality MP3 audio in seconds."
+        }
+      },{
+        "@type": "Question",
+        "name": "Does NeoByte Downloader work on mobile devices?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, NeoByte Downloader works perfectly on all devices including smartphones and tablets. Our responsive design ensures a seamless experience across all platforms."
+        }
+      }]
+    }
+    </script>
+    
+    <!-- Additional SEO Meta Tags -->
+    <meta name="application-name" content="NeoByte Downloader">
+    <meta name="msapplication-TileColor" content="#00ffdd">
+    <meta name="theme-color" content="#00ffdd">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <style>
+        :root {
+            /* Dark theme (default) */
+            --primary-neon: #00ffdd;
+            --secondary-neon: #fe01fe;
+            --primary-glow: #00c3ff;
+            --dark-bg: #0a0b1a;
+            --darker-bg: #070817;
+            --card-bg: rgba(15, 20, 40, 0.7);
+            --header-grad-1: #00ffdd;
+            --header-grad-2: #fe01fe; 
+            --text-color: #e0e0ff;
+            --text-secondary: #a0a0d0;
+            --input-bg: rgba(20, 25, 45, 0.7);
+            --input-border: rgba(0, 195, 255, 0.2);
+            --box-shadow: 0 0 20px rgba(0, 195, 255, 0.2);
+            --transition-speed: 0.3s;
+            
+            /* Platform colors */
+            --youtube-color: #FF0000;
+            --instagram-color: #E1306C;
+            --twitter-color: #1D9BF0;
+        }
+        
+        /* Light theme */
+        [data-theme="light"] {
+            --primary-neon: #00a090;
+            --secondary-neon: #d000d0;
+            --primary-glow: #0090c0;
+            --dark-bg: #f0f5ff;
+            --darker-bg: #e0e8ff;
+            --card-bg: rgba(255, 255, 255, 0.85);
+            --text-color: #222244;
+            --text-secondary: #555580;
+            --input-bg: rgba(255, 255, 255, 0.8);
+            --input-border: rgba(0, 144, 192, 0.3);
+            --box-shadow: 0 0 20px rgba(0, 144, 192, 0.15);
+        }
+        
+        body {
+            font-family: 'Rajdhani', 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, var(--dark-bg) 0%, var(--darker-bg) 100%);
+            color: var(--text-color);
+            min-height: 100vh;
+            position: relative;
+            overflow-x: hidden;
+        }
+        
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(90deg, var(--primary-neon), var(--secondary-neon));
+            z-index: 1000;
+        }
+
+        /* Cyber grid background effect */
+        .cyber-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(0,195,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0,195,255,0.03) 1px, transparent 1px);
+            background-size: 50px 50px;
+            z-index: -1;
+            pointer-events: none;
+        }
+        
+        /* Glowing orb effect */
+        .cyber-orb {
+            position: fixed;
+            width: 800px;
+            height: 800px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(0,195,255,0.1) 0%, rgba(254,1,254,0.05) 30%, transparent 70%);
+            top: 10%;
+            right: -200px;
+            z-index: -1;
+            pointer-events: none;
+            animation: orbFloat 20s infinite alternate ease-in-out;
+        }
+        
+        @keyframes orbFloat {
+            0% { transform: translateY(0) scale(1); }
+            100% { transform: translateY(-100px) scale(1.1); }
+        }
+        
+        /* Header */
+        .neo-header {
+            text-align: center;
+            padding: 3rem 0;
+            position: relative;
+        }
+        
+        .main-title {
+            font-size: 4.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            background: linear-gradient(90deg, var(--header-grad-1), var(--header-grad-2));
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            text-shadow: 0 0 15px rgba(0, 255, 221, 0.5);
+            position: relative;
+            display: inline-block;
+        }
+        
+        @keyframes neonPulse {
+            0% { opacity: 0.8; }
+            50% { opacity: 1; }
+            100% { opacity: 0.8; }
+        }
+        
+        .main-title::after {
+            content: attr(data-text);
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: -1;
+            color: transparent;
+            filter: blur(8px);
+            background: linear-gradient(90deg, var(--header-grad-1), var(--header-grad-2));
+            -webkit-background-clip: text;
+            background-clip: text;
+            opacity: 0.5;
+            animation: neonPulse 2s infinite;
+        }
+        
+        .tagline {
+            font-size: 1.3rem;
+            margin-bottom: 2rem;
+            color: var(--text-secondary);
+        }
+        
+        /* Platform cards */
+        .platform-section {
+            padding: 2rem 0 2rem;
+        }
+        
+        .platform-card {
+            background: var(--card-bg);
+            border-radius: 15px;
+            overflow: hidden;
+            padding: 2rem;
+            text-align: center;
+            position: relative;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            min-height: 360px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .platform-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, var(--platform-color), transparent);
+            transition: all 0.3s ease;
+        }
+        
+        .platform-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+        }
+        
+        .platform-card:hover::before {
+            height: 5px;
+            box-shadow: 0 0 10px var(--platform-color);
+        }
+        
+        .platform-icon {
+            font-size: 4rem;
+            margin-bottom: 1.5rem;
+            color: var(--platform-color);
+            filter: drop-shadow(0 0 10px var(--platform-color));
+            transition: all 0.3s ease;
+        }
+        
+        .platform-card:hover .platform-icon {
+            transform: scale(1.1);
+            filter: drop-shadow(0 0 15px var(--platform-color));
+        }
+        
+        .platform-card h3 {
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            color: var(--text-color);
+        }
+        
+        .platform-card p {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+            font-size: 1rem;
+        }
+        
+        .btn-platform {
+            background: transparent;
+            color: var(--text-color);
+            padding: 0.5rem 1.5rem;
+            border-radius: 30px;
+            border: 2px solid var(--platform-color);
+            transition: all 0.3s ease;
+            font-weight: 600;
+            position: relative;
+            overflow: hidden;
+            z-index: 1;
+        }
+        
+        .btn-platform::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 0;
+            height: 100%;
+            background: var(--platform-color);
+            transition: all 0.3s ease;
+            z-index: -1;
+        }
+        
+        .btn-platform:hover::before {
+            width: 100%;
+        }
+        
+        .btn-platform:hover {
+            color: #fff;
+            box-shadow: 0 0 15px var(--platform-color);
+        }
+        
+        /* YouTube Platform */
+        .youtube-card {
+            --platform-color: var(--youtube-color);
+        }
+        
+        /* Instagram Platform */
+        .instagram-card {
+            --platform-color: var(--instagram-color);
+        }
+        
+        /* Twitter Platform */
+        .twitter-card {
+            --platform-color: var(--twitter-color);
+        }
+        
+        /* Features section */
+        .features-section {
+            padding: 1rem 0;
+            position: relative;
+        }
+        
+        .section-title {
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: var(--text-color);
+            position: relative;
+            display: inline-block;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -15px;
+            left: 50%;
+            width: 100px;
+            height: 3px;
+            transform: translateX(-50%);
+            background: linear-gradient(90deg, transparent, var(--primary-neon), transparent);
+            border-radius: 3px;
+        }
+        
+        .feature-item {
+            background: var(--card-bg);
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            border: 1px solid rgba(0, 195, 255, 0.1);
+        }
+        
+        .feature-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+        
+        .feature-icon {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: var(--primary-neon);
+            filter: drop-shadow(0 0 5px var(--primary-neon));
+        }
+        
+        .feature-item h4 {
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-color);
+        }
+        
+        .feature-item p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin-bottom: 0;
+        }
+        
+        /* Logs section */
+        .logs-section {
+            padding: 2rem 0 4rem;
+        }
+        
+        .log-container {
+            background: var(--card-bg);
+            border-radius: 10px;
+            padding: 1.5rem;
+            max-height: 300px;
+            overflow-y: auto;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+        }
+        
+        .log-entry {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+        
+        .log-entry:last-child {
+            border-bottom: none;
+        }
+        
+        .log-time {
+            color: var(--primary-neon);
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+        
+        .log-message {
+            color: var(--text-secondary);
+        }
+        
+        /* Footer */
+        .footer {
+            padding: 2rem 0 1rem;
+            position: relative;
+            text-align: center;
+        }
+        
+        .footer::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80%;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--text-secondary), transparent);
+        }
+        
+        .footer-text {
+            color: var(--text-secondary);
+                font-size: 0.9rem;
+            }
+            
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: var(--darker-bg);
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary-glow);
+            border-radius: 3px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--primary-neon);
+        }
+        
+        /* Animation for cards */
+        @keyframes fadeInUp {
+            from {
+            opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .fade-in-up {
+            opacity: 0;
+            animation: fadeInUp 0.6s ease forwards;
+        }
+        
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.3s; }
+        .delay-3 { animation-delay: 0.5s; }
+        .delay-4 { animation-delay: 0.7s; }
+        
+        @keyframes logoGlowPulse {
+            0% { box-shadow: 0 0 10px rgba(29, 155, 240, 0.2); }
+            50% { box-shadow: 0 0 20px rgba(29, 155, 240, 0.6); }
+            100% { box-shadow: 0 0 10px rgba(29, 155, 240, 0.2); }
+        }
+        
+        /* X Logo for Home Page */
+        .x-logo-home {
+            display: inline-block;
+            width: 60px;
+            height: 60px;
+            background-color: #000;
+            border-radius: 8px;
+            position: relative;
+            margin-bottom: 1rem;
+            box-shadow: 0 0 20px rgba(29, 155, 240, 0.4);
+            animation: logoGlowPulse 3s infinite ease-in-out;
+        }
+        
+        .x-logo-home::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 40px;
+            height: 40px;
+            transform: translate(-50%, -50%);
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23ffffff'%3E%3Cpath d='M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+        }
+        
+        .supported-platforms-section {
+            padding: 0.5rem 0;
+        }
+        
+        .platform-icon-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: all 0.3s ease;
+            animation: floatIcon 3s ease-in-out infinite alternate;
+            padding: 5px;
+            margin: 0 -10px;
+        }
+        
+        .platform-icon-wrapper:hover {
+            transform: translateY(-5px) scale(1.15);
+        }
+        
+        .platform-os-icon {
+            font-size: 5.5rem;
+            color: var(--text-color);
+            filter: drop-shadow(0 0 10px rgba(0, 195, 255, 0.4));
+            transition: all 0.3s ease;
+        }
+        
+        .platform-icon-wrapper:hover .platform-os-icon {
+            filter: drop-shadow(0 0 15px rgba(0, 195, 255, 0.8));
+        }
+        
+        @keyframes floatIcon {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(-10px);
+            }
+        }
+        
+        /* Add random delay to each icon for more natural floating effect */
+        .platform-icons-container .platform-icon-wrapper:nth-child(1) {
+            animation-delay: 0s;
+        }
+        
+        .platform-icons-container .col-3:nth-child(2) .platform-icon-wrapper {
+            animation-delay: 0.5s;
+        }
+        
+        .platform-icons-container .col-3:nth-child(3) .platform-icon-wrapper {
+            animation-delay: 1s;
+        }
+        
+        .platform-icons-container .col-3:nth-child(4) .platform-icon-wrapper {
+            animation-delay: 1.5s;
+        }
+        
+        /* Theme Toggle */
+        .theme-toggle-wrapper {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1001;
+        }
+        
+        .theme-toggle {
+            width: 52px;
+            height: 26px;
+            background-color: var(--card-bg);
+            border-radius: 20px;
+            border: 1px solid rgba(0, 195, 255, 0.3);
+            padding: 2px;
+            position: relative;
+            cursor: pointer;
+            box-shadow: 0 0 10px rgba(0, 195, 255, 0.3);
+            transition: all 0.3s ease;
+        }
+        
+        .theme-toggle-track {
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            background-color: var(--primary-neon);
+            box-shadow: 0 0 8px var(--primary-neon);
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #000;
+            font-size: 12px;
+        }
+        
+        [data-theme="light"] .theme-toggle-track {
+            transform: translateX(26px);
+            background-color: var(--secondary-neon);
+            box-shadow: 0 0 8px var(--secondary-neon);
+        }
+        
+        .dark-icon, .light-icon {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 12px;
+            transition: all 0.3s ease;
+        }
+        
+        .dark-icon {
+            left: 7px;
+            opacity: 0;
+            color: var(--primary-neon);
+        }
+        
+        .light-icon {
+            right: 7px;
+            opacity: 1;
+            color: var(--secondary-neon);
+        }
+        
+        [data-theme="light"] .dark-icon {
+            opacity: 1;
+        }
+        
+        [data-theme="light"] .light-icon {
+            opacity: 0;
+        }
+        
+        .platform-icons-container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .platform-icons-row {
+            margin: 0 -15px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Theme Toggle -->
+    <div class="theme-toggle-wrapper">
+        <div class="theme-toggle" id="themeToggle">
+            <div class="theme-toggle-track">
+                <i class="fas fa-moon"></i>
+            </div>
+            <i class="fas fa-moon dark-icon"></i>
+            <i class="fas fa-sun light-icon"></i>
+        </div>
+    </div>
+
+    <!-- Background effects -->
+    <div class="cyber-grid"></div>
+    <div class="cyber-orb"></div>
+    
+    <!-- Header -->
+    <header class="neo-header">
+        <h1 class="main-title" data-text="NEOBYTE">NEOBYTE</h1>
+        <p class="tagline">Advanced Media Downloader - Futuristic, Fast, Free</p>
+    </header>
+    
+    <!-- Platform Selection Section -->
+    <section class="platform-section">
+        <div class="container">
+            <div class="row">
+                <!-- YouTube -->
+                <div class="col-md-4 mb-4">
+                    <div class="platform-card youtube-card fade-in-up delay-1">
+                        <i class="fab fa-youtube platform-icon"></i>
+                        <h3>YouTube Downloader</h3>
+                        <p>Download videos, playlists, and audio in multiple quality options.</p>
+                        <a href="/youtube" class="btn btn-platform">START DOWNLOAD</a>
+        </div>
+        </div>
+        
+                <!-- Instagram -->
+                <div class="col-md-4 mb-4">
+                    <div class="platform-card instagram-card fade-in-up delay-2">
+                        <i class="fab fa-instagram platform-icon"></i>
+                        <h3>Instagram Reels</h3>
+                        <p>Save reels, stories and IGTV videos at the highest quality.</p>
+                        <a href="/instagram" class="btn btn-platform">START DOWNLOAD</a>
+                    </div>
+                </div>
+                
+                <!-- Twitter -->
+                <div class="col-md-4 mb-4">
+                    <div class="platform-card twitter-card fade-in-up delay-3">
+                        <div class="x-logo-home"></div>
+                        <h3>X Video</h3>
+                        <p>Download posts containing videos and GIFs instantly.</p>
+                        <a href="/twitter" class="btn btn-platform">START DOWNLOAD</a>
+                </div>
+            </div>
+        </div>
+                </div>
+    </section>
+    
+    <!-- Supported Platforms Section -->
+    <section class="supported-platforms-section">
+        <div class="container">
+            <h2 class="section-title">Supported Platforms</h2>
+            
+            <div class="platform-icons-container text-center mt-3">
+                <div class="row justify-content-center g-0 platform-icons-row">
+                    <div class="col-6 col-sm-4 col-md-3 mb-5">
+                        <div class="platform-icon-wrapper fade-in-up delay-1">
+                            <i class="fab fa-windows platform-os-icon"></i>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-4 col-md-3 mb-5">
+                        <div class="platform-icon-wrapper fade-in-up delay-2">
+                            <i class="fab fa-apple platform-os-icon"></i>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-4 col-md-3 mb-5">
+                        <div class="platform-icon-wrapper fade-in-up delay-3">
+                            <i class="fab fa-android platform-os-icon"></i>
+                        </div>
+                    </div>
+                    <div class="col-6 col-sm-4 col-md-3 mb-5">
+                        <div class="platform-icon-wrapper fade-in-up delay-4">
+                            <i class="fab fa-linux platform-os-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Features Section -->
+    <section class="features-section">
+        <div class="container">
+            <h2 class="section-title">Key Features</h2>
+            
+            <div class="row mt-4">
+                <div class="col-md-3 mb-4">
+                    <div class="feature-item fade-in-up delay-1">
+                        <i class="fas fa-bolt feature-icon"></i>
+                        <h4>High-Speed Downloads</h4>
+                        <p>Our optimized algorithms ensure maximum download speeds.</p>
+            </div>
+        </div>
+        
+                <div class="col-md-3 mb-4">
+                    <div class="feature-item fade-in-up delay-2">
+                        <i class="fas fa-shield-alt feature-icon"></i>
+                        <h4>Secure & Private</h4>
+                        <p>No personal data stored. Your downloads remain private.</p>
+        </div>
+    </div>
+    
+                <div class="col-md-3 mb-4">
+                    <div class="feature-item fade-in-up delay-3">
+                        <i class="fas fa-tachometer-alt feature-icon"></i>
+                        <h4>Multiple Formats</h4>
+                        <p>Choose from various quality options and file formats.</p>
+            </div>
+        </div>
+
+                <div class="col-md-3 mb-4">
+                    <div class="feature-item fade-in-up delay-4">
+                        <i class="fas fa-desktop feature-icon"></i>
+                        <h4>Cross-Platform</h4>
+                        <p>Works on all devices - desktop, tablet, and mobile.</p>
+                        </div>
+                    </div>
+                        </div>
+                    </div>
+    </section>
+    
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">© 2025 NeoByte Downloader | The ultimate multi-platform media downloading solution</p>
+    </div>
+    </footer>
+    
+    <!-- JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Animation for elements when they come into view
+        document.addEventListener('DOMContentLoaded', function() {
+            // Set initial animations 
+            const fadeElements = document.querySelectorAll('.fade-in-up');
+            fadeElements.forEach(el => {
+                el.style.opacity = '1';
+            });
+            
+            // Log timestamps update
+            const logTimes = document.querySelectorAll('.log-time');
+            const now = new Date();
+            
+            logTimes.forEach((timeEl, index) => {
+                const minutesAgo = index * 15 + 5;
+                const logTime = new Date(now.getTime() - minutesAgo * 60000);
+                const hours = logTime.getHours().toString().padStart(2, '0');
+                const minutes = logTime.getMinutes().toString().padStart(2, '0');
+                const seconds = logTime.getSeconds().toString().padStart(2, '0');
+                
+                timeEl.textContent = `${hours}:${minutes}:${seconds}`;
+            });
+        });
+        
+        // Theme toggle functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const themeToggle = document.getElementById('themeToggle');
+            const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+            
+            // Check for saved theme preference or use the system preference
+            const currentTheme = localStorage.getItem('theme') || 
+                                (prefersDarkScheme.matches ? 'dark' : 'light');
+            
+            // Apply the saved theme or system preference
+            if (currentTheme === 'light') {
+                document.body.setAttribute('data-theme', 'light');
+                themeToggle.querySelector('.theme-toggle-track i').className = 'fas fa-sun';
+            }
+            
+            // Add click event to toggle theme
+            themeToggle.addEventListener('click', function() {
+                let theme = 'dark';
+                let icon = 'fas fa-moon';
+                
+                // Check current theme
+                if (!document.body.getAttribute('data-theme')) {
+                    theme = 'light';
+                    icon = 'fas fa-sun';
+                } else {
+                    document.body.removeAttribute('data-theme');
+                }
+                
+                // Apply new theme
+                if (theme === 'light') {
+                    document.body.setAttribute('data-theme', 'light');
+                }
+                
+                // Update icon
+                themeToggle.querySelector('.theme-toggle-track i').className = icon;
+                
+                // Save preference to localStorage
+                localStorage.setItem('theme', theme);
+            });
+        });
+    </script>
+</body>
+</html> 

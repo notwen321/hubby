@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>YouTube Video Downloader | #1 Free YouTube to MP4/MP3 Converter 2025 - NeoByte</title>
+    <meta name="description" content="Download YouTube videos in 4K, 2K, 1080p, 720p or convert to MP3 with NeoByte's #1 rated YouTube downloader. Ultra-fast, 100% secure, no ads or watermarks.">
+    <meta name="keywords" content="youtube downloader, download youtube videos, youtube to mp3, youtube converter, youtube video downloader, download youtube, free youtube downloader, 4k youtube download, youtube mp3 converter, youtube mp4 download, best youtube downloader 2025, yt downloader">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="NeoByte">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ request.base_url }}">
+    <meta property="og:title" content="YouTube Video Downloader | #1 Free YouTube to MP4/MP3 Converter 2025 - NeoByte">
+    <meta property="og:description" content="Download YouTube videos in 4K, 2K, 1080p or convert to MP3. Ultra-fast, 100% secure and free with no watermarks or ads.">
+    <meta property="og:image" content="{{ url_for('static', filename='img/youtube-downloader-preview.jpg', _external=True) }}">
+    <meta property="og:site_name" content="NeoByte YouTube Downloader">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter / X Meta Tags -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ request.base_url }}">
+    <meta property="twitter:title" content="YouTube Video Downloader | #1 Free YouTube to MP4/MP3 Converter 2025 - NeoByte">
+    <meta property="twitter:description" content="Download YouTube videos in 4K, 2K, 1080p or convert to MP3. Ultra-fast, 100% secure and free with no watermarks or ads.">
+    <meta property="twitter:image" content="{{ url_for('static', filename='img/youtube-downloader-preview.jpg', _external=True) }}">
+    <meta property="twitter:creator" content="@neobyte_app">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ request.base_url }}">
+    
+    <!-- Alternate Language URLs -->
+    <link rel="alternate" hreflang="x-default" href="{{ request.url_root }}youtube">
+    <link rel="alternate" hreflang="en" href="{{ request.url_root }}youtube">
+    
+    <!-- Structured Data for Rich Snippets -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "NeoByte YouTube Downloader",
+      "url": "{{ request.url_root }}youtube",
+      "applicationCategory": "MultimediaApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "operatingSystem": "Any",
+      "description": "#1 Free YouTube video downloader and converter. Download videos in 4K/HD quality or convert to MP3. No watermarks, no ads, ultra-fast and secure.",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "ratingCount": "9542",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "featureList": ["4K YouTube Video Downloads", "YouTube to MP3 Converter", "Playlist Downloads", "No Watermarks", "No Registration Required", "Ultra-Fast Downloads", "Multiple Format Options"],
+      "keywords": "youtube downloader, youtube mp3, download youtube videos, youtube converter, yt downloader, youtube to mp4"
+    }
+    </script>
+    
+    <!-- FAQ Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "How can I download YouTube videos in 4K quality?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To download YouTube videos in 4K quality, paste the YouTube URL into NeoByte Downloader, select '4K (2160p)' quality option, and click 'Download'. Your video will be downloaded in the highest available resolution up to 4K."
+        }
+      },{
+        "@type": "Question",
+        "name": "Is it legal to download YouTube videos?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Downloading YouTube videos for personal use is generally acceptable in most countries. However, redistributing copyrighted content without permission is not legal. Always respect copyright laws and only download videos for personal viewing."
+        }
+      },{
+        "@type": "Question",
+        "name": "How do I convert YouTube videos to MP3?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To convert YouTube videos to MP3, paste the YouTube URL into NeoByte Downloader, select 'Audio (MP3)' format, and click 'Download'. The tool will extract high-quality audio from the video and save it as an MP3 file."
+        }
+      },{
+        "@type": "Question",
+        "name": "Can I download entire YouTube playlists?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes! NeoByte Downloader supports YouTube playlist downloads. Simply paste the playlist URL, select your preferred quality for all videos, and our tool will download the entire playlist automatically."
+        }
+      },{
+        "@type": "Question",
+        "name": "Is NeoByte YouTube Downloader completely free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, NeoByte YouTube Downloader is 100% free with no hidden fees, subscriptions, or usage limits. Download as many YouTube videos as you want in the highest quality without any restrictions."
+        }
+      }]
+    }
+    </script>
+    
+    <!-- Additional SEO Meta Tags -->
+    <meta name="application-name" content="NeoByte YouTube Downloader">
+    <meta name="msapplication-TileColor" content="#FF0000">
+    <meta name="theme-color" content="#FF0000">
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <style>
+        :root {
+            /* Dark theme (default) */
+            --primary-neon: #00ffdd;
+            --secondary-neon: #fe01fe;
+            --youtube-color: #FF0000;
+            --primary-glow: #00c3ff;
+            --dark-bg: #0a0b1a;
+            --darker-bg: #070817;
+            --card-bg: rgba(15, 20, 40, 0.7);
+            --text-color: #e0e0ff;
+            --text-secondary: #a0a0d0;
+            --input-bg: rgba(20, 25, 45, 0.7);
+            --input-border: rgba(0, 195, 255, 0.2);
+            --box-shadow: 0 0 20px rgba(0, 195, 255, 0.2);
+        }
+        
+        body {
+            font-family: 'Rajdhani', 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, var(--dark-bg) 0%, var(--darker-bg) 100%);
+            color: var(--text-color);
+            min-height: 100vh;
+            position: relative;
+            overflow-x: hidden;
+        }
+        
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(90deg, var(--primary-neon), var(--youtube-color));
+            z-index: 1000;
+        }
+        
+        .cyber-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(0,195,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0,195,255,0.03) 1px, transparent 1px);
+            background-size: 50px 50px;
+            z-index: -1;
+            pointer-events: none;
+        }
+        
+        .navbar {
+            background-color: rgba(10, 11, 26, 0.8);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(0, 195, 255, 0.1);
+        }
+        
+        .navbar-brand {
+            font-weight: 700;
+            letter-spacing: 1px;
+            color: var(--text-color);
+        }
+        
+        .navbar-brand .brand-highlight {
+            color: var(--primary-neon);
+            text-shadow: 0 0 10px var(--primary-neon);
+        }
+        
+        .navbar-nav .nav-link {
+            color: var(--text-secondary);
+            margin: 0 10px;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+        
+        .navbar-nav .nav-link:hover {
+            color: var(--text-color);
+        }
+        
+        .navbar-nav .nav-link::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            background: var(--primary-neon);
+            bottom: -3px;
+            left: 50%;
+            transform: translateX(-50%);
+            transition: all 0.3s ease;
+        }
+        
+        .navbar-nav .nav-link:hover::after {
+            width: 100%;
+        }
+        
+        .navbar-nav .nav-link.active {
+            color: var(--primary-neon);
+        }
+        
+        .navbar-nav .nav-link.active::after {
+            width: 80%;
+            background: var(--primary-neon);
+        }
+        
+        /* YouTube Section Styles */
+        .youtube-header {
+            text-align: center;
+            padding: 3rem 0 2rem;
+        }
+        
+        .download-form {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .yt-title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            position: relative;
+            display: inline-block;
+            color: var(--text-color);
+        }
+        
+        .yt-icon {
+            color: var(--youtube-color);
+            margin-right: 10px;
+            filter: drop-shadow(0 0 8px rgba(255, 0, 0, 0.8));
+        }
+        
+        .input-container {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .url-input {
+            background-color: var(--input-bg);
+            border: 1px solid var(--input-border);
+            color: var(--text-color);
+            padding: 15px 20px;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+        }
+        
+        .url-input:focus {
+            border-color: var(--primary-neon);
+            box-shadow: 0 0 0 0.2rem rgba(0, 255, 221, 0.25);
+            background-color: rgba(25, 30, 50, 0.7);
+        }
+        
+        .url-input::placeholder {
+            color: var(--text-secondary);
+            opacity: 0.7;
+        }
+        
+        .download-options {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .form-label {
+            color: var(--text-color);
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .form-check-input {
+            background-color: var(--input-bg);
+            border: 1px solid var(--input-border);
+        }
+        
+        .form-check-input:checked {
+            background-color: var(--primary-neon);
+            border-color: var(--primary-neon);
+        }
+        
+        .form-check-label {
+            color: var(--text-secondary);
+        }
+        
+        .form-select {
+            background-color: var(--input-bg);
+            border: 1px solid var(--input-border);
+            color: var(--text-color);
+            padding: 10px 15px;
+            border-radius: 8px;
+        }
+        
+        .form-select:focus {
+            border-color: var(--primary-neon);
+            box-shadow: 0 0 0 0.2rem rgba(0, 255, 221, 0.25);
+            background-color: rgba(25, 30, 50, 0.7);
+        }
+        
+        .download-btn {
+            background: linear-gradient(45deg, var(--primary-neon), var(--youtube-color));
+            border: none;
+            color: #fff;
+            font-weight: 700;
+            font-size: 1.1rem;
+            letter-spacing: 1px;
+            padding: 12px 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 255, 221, 0.3);
+            transition: all 0.3s ease;
+            display: block;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+            text-transform: uppercase;
+        }
+        
+        .download-btn::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(
+                to bottom right,
+                rgba(255, 255, 255, 0) 0%,
+                rgba(255, 255, 255, 0.1) 100%
+            );
+            transform: rotate(45deg);
+            z-index: 0;
+            transition: all 0.5s ease;
+            opacity: 0;
+        }
+        
+        .download-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(0, 255, 221, 0.4);
+        }
+        
+        .download-btn:hover::before {
+            animation: shine 1.5s ease-out;
+        }
+        
+        @keyframes shine {
+            0% {
+                opacity: 0;
+                left: -50%;
+            }
+            50% {
+                opacity: 1;
+            }
+            100% {
+                opacity: 0;
+                left: 150%;
+            }
+        }
+        
+        /* Video Information Display */
+        .video-info {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            margin-bottom: 2rem;
+            display: none;
+            animation: fadeIn 0.5s ease-out forwards;
+        }
+        
+        .video-thumbnail {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            border: 1px solid rgba(0, 195, 255, 0.2);
+        }
+        
+        .video-metadata {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        
+        .progress {
+            height: 10px;
+            background-color: rgba(20, 25, 45, 0.5);
+            border-radius: 5px;
+            margin-top: 1rem;
+            overflow: hidden;
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+        }
+        
+        .progress-bar {
+            background: linear-gradient(90deg, var(--primary-neon), var(--youtube-color));
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+            transition: width 0.3s ease;
+        }
+        
+        /* Log container */
+        .log-container {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            max-height: 300px;
+            overflow-y: auto;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            margin-bottom: 2rem;
+            font-family: 'Consolas', monospace;
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+            display: none;
+        }
+        
+        /* Messages styling */
+        #messages div {
+            padding: 5px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+        
+        #messages div:last-child {
+            border-bottom: none;
+        }
+        
+        /* Completed downloads */
+        .completed-downloads {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            margin-bottom: 2rem;
+            display: none;
+            animation: fadeIn 0.5s ease-out forwards;
+        }
+        
+        .download-item {
+            background-color: rgba(20, 30, 60, 0.5);
+            border-radius: 8px;
+            padding: 1.2rem;
+            margin-bottom: 1rem;
+            border-left: 3px solid var(--primary-neon);
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .download-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        .btn-download {
+            background: linear-gradient(45deg, var(--primary-neon), var(--youtube-color));
+            border: none;
+            color: #fff;
+            padding: 10px 18px;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+        }
+        
+        .btn-download:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(255, 0, 0, 0.2);
+            color: white;
+        }
+        
+        .btn-outline-primary {
+            border: 1px solid var(--primary-neon);
+            background: transparent;
+            color: var(--primary-neon);
+        }
+        
+        .btn-outline-primary:hover {
+            background-color: rgba(0, 255, 221, 0.1);
+            color: var(--primary-neon);
+        }
+        
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: var(--darker-bg);
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary-glow);
+            border-radius: 3px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--primary-neon);
+        }
+        
+        /* Footer */
+        .footer {
+            padding: 2rem 0 1rem;
+            text-align: center;
+            position: relative;
+        }
+        
+        .footer::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80%;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--text-secondary), transparent);
+        }
+        
+        .footer-text {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.5s ease-out forwards;
+        }
+        
+        /* Help Section Styles */
+        .help-container {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+        }
+        
+        .help-title {
+            color: var(--text-color);
+            font-weight: 700;
+            font-size: 1.8rem;
+            position: relative;
+            display: inline-block;
+            margin-bottom: 1rem;
+        }
+        
+        .cyber-card {
+            background-color: rgba(20, 25, 45, 0.7);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            height: 100%;
+        }
+        
+        .cyber-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2), 0 0 15px rgba(0, 195, 255, 0.2);
+        }
+        
+        .card-header {
+            background-color: rgba(25, 30, 50, 0.7);
+            color: var(--text-color);
+            font-weight: 600;
+            border-bottom: 1px solid rgba(0, 195, 255, 0.1);
+            padding: 1rem 1.5rem;
+        }
+        
+        .card-header h5 {
+            margin-bottom: 0;
+            color: var(--primary-neon);
+        }
+        
+        .card-body {
+            padding: 1.5rem;
+            color: var(--text-secondary);
+        }
+        
+        .custom-link {
+            color: var(--primary-neon);
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-weight: 600;
+        }
+        
+        .custom-link:hover {
+            text-shadow: 0 0 8px var(--primary-neon);
+        }
+        
+        .privacy-note {
+            color: var(--text-secondary);
+            background-color: rgba(20, 25, 45, 0.7);
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            border-left: 3px solid var(--primary-neon);
+        }
+        
+        .feature-card {
+            background-color: rgba(20, 25, 45, 0.7);
+            border: 1px solid rgba(0, 195, 255, 0.1);
+            border-radius: 8px;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            height: 100%;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2), 0 0 10px rgba(0, 195, 255, 0.2);
+        }
+        
+        .feature-icon {
+            font-size: 2rem;
+            color: var(--primary-neon);
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, var(--primary-neon), var(--youtube-color));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: drop-shadow(0 0 5px rgba(0, 255, 221, 0.4));
+        }
+        
+        .feature-card h5 {
+            color: var(--text-color);
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+        
+        .feature-card p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Background effect -->
+    <div class="cyber-grid"></div>
+    
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">NEO<span class="brand-highlight">BYTE</span></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/youtube">YouTube</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/instagram">Instagram</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/twitter">X</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- YouTube Download Section -->
+    <section class="youtube-header">
+        <div class="container">
+            <h1 class="yt-title"><i class="fab fa-youtube yt-icon"></i>YouTube Downloader</h1>
+            <p class="mb-4">Download videos, playlists and audio from YouTube with our high-speed technology</p>
+        </div>
+    </section>
+    
+    <!-- Download Form -->
+    <section class="download-form">
+        <div class="container">
+            <!-- Form with multipart enctype for file uploads -->
+            <form id="downloadForm" action="/download" method="post" enctype="multipart/form-data">
+                <!-- URL Input -->
+                <div class="input-container fade-in">
+                    <div class="mb-3">
+                        <label for="url" class="form-label"><i class="fas fa-link me-2"></i>YouTube URL</label>
+                        <input type="text" id="url" name="url" class="form-control url-input" placeholder="Paste your YouTube video or playlist link here..." required>
+                    </div>
+                </div>
+                
+                <!-- Download Options -->
+                <div class="download-options fade-in">
+                    <div class="row mb-4">
+                        <div class="col-md-6 mb-3 mb-md-0">
+                            <label class="form-label">Download Type</label>
+                            <div class="d-flex">
+                                <div class="form-check me-4">
+                                    <input class="form-check-input" type="radio" name="download_type" id="video-type" value="video" checked>
+                                    <label class="form-check-label" for="video-type">Video</label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="download_type" id="audio-type" value="audio">
+                                    <label class="form-check-label" for="audio-type">Audio (MP3)</label>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6" id="resolutionRow">
+                            <label for="resolution" class="form-label">Video Quality</label>
+                            <select class="form-select" id="resolution" name="resolution">
+                                <option value="highest">Highest Quality</option>
+                                <option value="2160p">4K (2160p)</option>
+                                <option value="1440p">2K (1440p)</option>
+                                <option value="1080p">Full HD (1080p)</option>
+                                <option value="720p">HD (720p)</option>
+                                <option value="480p">SD (480p)</option>
+                                <option value="360p">360p</option>
+                                <option value="lowest">Lowest Quality (Faster)</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <button type="submit" id="downloadBtn" class="download-btn">
+                        <span id="loadingSpinner" class="spinner-border spinner-border-sm me-2 d-none" role="status" aria-hidden="true"></span>
+                        <i class="fas fa-download me-2"></i> START DOWNLOAD
+                    </button>
+                </div>
+            </form>
+            
+            <!-- Result Container (for success/error messages) -->
+            <div id="resultContainer" class="alert mt-4 d-none">
+                <div id="successMessage" class="alert alert-success d-none">
+                    <i class="fas fa-check-circle me-2"></i> Download successful! Video is being saved to your computer.
+                </div>
+                <div id="errorMessage" class="alert alert-danger d-none"></div>
+            </div>
+            
+            <!-- Log Container -->
+            <div class="log-container" id="log-container">
+                <div id="messages"></div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">© 2025 NeoByte Downloader | Developed with <i class="fas fa-heart" style="color: var(--youtube-color);"></i> for content creators</p>
+        </div>
+    </footer>
+    
+    <!-- JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const downloadForm = document.getElementById('downloadForm');
+            const urlInput = document.getElementById('url');
+            const downloadTypeRadios = document.querySelectorAll('input[name="download_type"]');
+            const resolutionSelect = document.getElementById('resolution');
+            const downloadBtn = document.getElementById('downloadBtn');
+            const resultContainer = document.getElementById('resultContainer');
+            const loadingSpinner = document.getElementById('loadingSpinner');
+            const errorMessage = document.getElementById('errorMessage');
+            const successMessage = document.getElementById('successMessage');
+            const logContainer = document.getElementById('log-container');
+            const messagesContainer = document.getElementById('messages');
+            
+            // Initialize tooltips
+            const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+            const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
+            
+            // Update resolution select visibility based on download type
+            downloadTypeRadios.forEach(radio => {
+                radio.addEventListener('change', function() {
+                    if (this.value === 'video') {
+                        document.getElementById('resolutionRow').classList.remove('d-none');
+                    } else {
+                        document.getElementById('resolutionRow').classList.add('d-none');
+                    }
+                });
+            });
+            
+            // Handle form submission
+            downloadForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const url = urlInput.value.trim();
+                
+                if (!url) {
+                    alert('Please enter a YouTube URL');
+                    return;
+                }
+                
+                // Show log container for feedback
+                logContainer.style.display = 'block';
+                logContainer.classList.add('fade-in');
+                messagesContainer.innerHTML = '';
+                
+                // Add initial messages
+                addMessage('⚡ Starting download process...');
+                addMessage('🔍 Extracting video information...');
+                
+                // Show loading state
+                downloadBtn.disabled = true;
+                loadingSpinner.classList.remove('d-none');
+                errorMessage.classList.add('d-none');
+                successMessage.classList.add('d-none');
+                resultContainer.classList.add('d-none');
+                
+                // Create FormData object to handle file upload
+                const formData = new FormData(downloadForm);
+                
+                // Send form data with fetch
+                fetch('/download', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => {
+                    if (response.ok) {
+                        addMessage('✅ Video information retrieved successfully!');
+                        addMessage('⬇️ Starting download...');
+                        
+                        // For successful downloads, get the filename from headers if available
+                        const disposition = response.headers.get('Content-Disposition');
+                        let filename = 'youtube-download';
+                        
+                        if (disposition && disposition.indexOf('attachment') !== -1) {
+                            const filenameRegex = /filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/;
+                            const matches = filenameRegex.exec(disposition);
+                            if (matches != null && matches[1]) {
+                                filename = matches[1].replace(/['"]/g, '');
+                            }
+                        }
+                        
+                        // For successful response, handle the blob and download
+                        return response.blob().then(blob => {
+                            const url = window.URL.createObjectURL(blob);
+                            const a = document.createElement('a');
+                            a.style.display = 'none';
+                            a.href = url;
+                            a.download = filename;
+                            document.body.appendChild(a);
+                            a.click();
+                            window.URL.revokeObjectURL(url);
+                            
+                            // Add success message
+                            addMessage('🎉 Download complete! File: ' + filename);
+                            
+                            // Reset form state
+                            downloadBtn.disabled = false;
+                            loadingSpinner.classList.add('d-none');
+                            
+                            // Show success message
+                            successMessage.classList.remove('d-none');
+                            resultContainer.classList.remove('d-none');
+                            
+                            // Hide success message after 10 seconds
+                            setTimeout(() => {
+                                successMessage.classList.add('d-none');
+                                resultContainer.classList.add('d-none');
+                            }, 10000);
+                        });
+                    } else {
+                        // For error responses, show the error message
+                        return response.json().then(data => {
+                            throw new Error(data.error || 'Failed to download video');
+                        });
+                    }
+                })
+                .catch(error => {
+                    // Display error in log
+                    addMessage('❌ Error: ' + error.message);
+                    
+                    // Display error in alert
+                    downloadBtn.disabled = false;
+                    loadingSpinner.classList.add('d-none');
+                    errorMessage.textContent = error.message;
+                    errorMessage.classList.remove('d-none');
+                    resultContainer.classList.remove('d-none');
+                    
+                    // Scroll to the help section if it's a bot verification error
+                    if (error.message.includes('Sign in to confirm') || 
+                        error.message.includes('bot') || 
+                        error.message.includes('authentication') ||
+                        error.message.includes('cookies')) {
+                        document.querySelector('.help-section').scrollIntoView({ behavior: 'smooth' });
+                    }
+                });
+            });
+            
+            // Add a message to the log
+            function addMessage(message) {
+                const messageElement = document.createElement('div');
+                messageElement.innerHTML = message;
+                messageElement.className = 'mb-2';
+                messagesContainer.appendChild(messageElement);
+                messagesContainer.scrollTop = messagesContainer.scrollHeight;
+            }
+            
+            // URL validation with visual feedback
+            urlInput.addEventListener('input', function() {
+                const value = this.value.trim();
+                const isValid = isValidYouTubeUrl(value);
+                
+                if (value === '') {
+                    this.classList.remove('is-valid', 'is-invalid');
+                } else if (isValid) {
+                    this.classList.add('is-valid');
+                    this.classList.remove('is-invalid');
+                } else {
+                    this.classList.add('is-invalid');
+                    this.classList.remove('is-valid');
+                }
+            });
+            
+            // Simple YouTube URL validation
+            function isValidYouTubeUrl(url) {
+                const pattern = /^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube(-nocookie)?\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$/;
+                return pattern.test(url);
+            }
+        });
+    </script>
+</body>
+</html> 
